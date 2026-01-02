@@ -1,1 +1,5 @@
 .env
+.venv*
+__pycache__
+.chroma
+simple_gtts.mp3
