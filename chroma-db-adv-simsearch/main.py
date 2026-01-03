@@ -26,3 +26,4 @@ client = CloudClient(
 food_data = data_loader.load_food_data('FoodDataSet.json')
 
 print(f"✅ Total food items loaded: {len(food_data)}")
+
