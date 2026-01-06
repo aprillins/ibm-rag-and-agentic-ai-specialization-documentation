@@ -1,0 +1,3067 @@
+Company Policy
+and Procedure
+Manual
+TriageLogic, LLC
+Initial Version November 2013
+Last update June 4, 2018
+Version 6.0
+Approved By:
+Charu G. Raheja, PhD
+Chair/CEO
+TriageLogic, LL
+TABLE OF CONTENTS
+Note: this covers:
+https://accreditnet.urac.org/Application/3271/Evidence
+Core Standards 1 to 40
+I. Welcome Core 2
+1. About Our Company .............................................................................................................5
+2. Mission Statement...................................................................................................................5
+3. OrganizationalStructureCore1………………………………………… ..................………6
+a. Company Demographic....................................................................................... 6
+b. Diagram Oversight Management Process............................................................9
+c. Diagram Quality Oversight Process......................................................................10
+d. Diagram Information/Communication Process..................................................11
+II. General TriageLogic Policy Core3
+1. Establishing and Creating Policy and Procedures...........................................................12
+2. Document Management Policy.........................................................................................14
+3. Company Website policy ...................................................................................................16
+III. Compliance Core	4,	5,10
+1. Law and Regulatory Compliance .....................................................................................19
+a. Compliance Plan Core4 .................................................................................. 19
+b. HIPAA Compliance Policy .....................................................................................27
+2. Inter-Departmental Coordination Core 5.........................................................................31
+a. TriageLogic Meeting Structure Diagram .............................................................32
+3. Marketing and Sales Communication Core10........................................................... 33
+IV. Business Relations for Delegated Work Core 6.9
+2
+TRIAGELOGIC, LLC 2
+Delegation Oversight Program
+a. Delegation and Review Core	6	and8............................................................35
+b. Selection of Delegate Core	7	and8 ...............................................................36
+c. Delegation Oversight Core	6	and9 ................................................................38
+V. Business Relationships with Clients Core11
+Written Business Agreements/Client Contract Rev ie w ............................. 40
+VI. Client Management and Relations Core 12, 17.28
+1. Client Satisfaction/ End user Satisfaction ................................................... 42
+2. Patient Evaluation Survey Sample............................................................... 44
+3. Client Satisfaction Survey.............................................................................. 45
+4. Quality Management Program.................................................................... 46
+a. Quality Flow Diagram by Committee............................................. 51
+b. Quality Improvement Projects......................................................... 54
+VII. Data Integrity and Information Regulation Core 13.16
+1. Information Management Core 13..........................................................55
+2. Business Continuity/Disaster Recovery Core13,14,15, ..........................58
+3. Information Security Policy Core 15 a b c.................................................61
+4. HIPAA Compliance Policy Core 16 ..........................................................65
+VIII. General Staff Employment Core 25 to 30
+1. General Staff Employment Information ....................................................... 68
+2. HIPPA Compliance Policy ............................................................................. 75
+3. Staff Performance Appraisal Form................................................................ 78
+4. Employee Personnel File ChecklistCore25,26 .........................................81
+5. StaffOrientation/TrainingAttestationCore27 ..........................................82
+6. Training Participation Form............................................................................. 83
+IX. Clinical Staff Core 30.35
+1. Clinical Staff Credentialing Core 30, 31 32 .............................................84
+2. Financial Incentives Core33 .....................................................................88
+3. Client and Consumer Access to Program Services Core 34..................89
+4. Consumer and Medical Complaint process Core 35 ............................89
+a. Incident Report Form......................................................................... 91
+X. Consumer Protection and Empowerment Core37.40
+1. Consumer Safety Mechanism Core 38 ........................................................100
+2. Health Literacy Core 40 ................................................................................ 101
+1. Welcome
+Welcome to Policy and ProcedurePurpose/Interpretation
+The purpose of this Manual is to provide employees of TriageLogic (“TL”) with general information
+regarding the policies and procedures of the Company. Nothing in this manual or in any other documents
+(such as benefit statements, performance evaluations, or any other written or verbal communications)
+should be construed to create an employment agreement/contract (either expressed or implied) for
+anything other than at-will employment.
+Writing or Revising Policy or Procedure
+If you are a TriageLogic employee who is writing or revising a policy or procedure, please consult section
+# 2 of this manual: Policy and Procedure Development & Maintenance. The policy outlines the policy
+and procedure formatting and organization, and the process for approval of policies and procedures.
+About Our Company CORE2c
+Today, TriageLogic is a leading provider of quality, affordable triage solutions. We are a physician-led
+company that offers leading-edge nurse triage services.
+We serve busy practices in need of a phone triage system for patients. Some of our physician groups are
+part of a hospital or a health system. We service all locations in the United States. All groups of patients
+(e.g., pediatric, adult, geriatric) are covered by TriageLogic.
+Triage Logic Nurse Triage on Call provides telephone nurse triage coverage for providers and their
+patients. CORE 2b
+How it works:
+1. Patient calls and talks to a triage representative
+2. Nurse calls patient back and directs patient to the appropriate level of care
+3. As the nurse handles the call, the system documents all the details and the encounter is sent to the
+physician’s office
+Key Features:
+• Gold Standard Protocols from Schmitt-Thompson
+• All calls recorded
+• All licensed registered nurses
+• Call back average time less than 30 minutes
+Mission Statement CORE 2a
+Our mission is to continue to lead the field of nurse triage. We commit our expertise, compassion and
+reliability to services that exceed expectations of medical professionals and their patients.
+“Taking care of our communities one call at a time”
+5
+CORE 2
+Date of incorporation as legal entity: November 2006, Nashville, TN
+Company Demographics CORE1
+A. Advisory Board – The board serves as an advisory committee to help the CEO plan strategy and keep
+up-to date with nursing, regulatory and other requirements.
+Advisory Board Members
+Charu Raheja, PhD – Chair and CEO
+PhD: Finance, New York University, NY
+Special interests: CEO compensation, corporate governance, and healthcare research
+Ravi Raheja, MD – Medical Director and COO
+MD: Robert Wood Johnson Medical School, NJ
+Pediatric Residency: Schneider Children’s Hospital, NY
+Special interests: General pediatrics, medical education and medical information technology
+John Roberts, Esq.
+JD: University of Minnesota Law School, MN
+Partner, New Counsel, PLC, provider of legal and business advice to technology startups
+Former Shareholder at Leonard, Street and Deinard, large corporate firm in Minneapolis, Minnesota
+In-house legal positions, including General Counsel, Deputy General Counsel or Corporate Counsel
+Texas Instruments, DSC Communications Corporation, Net Perceptions and ValueVision Media Inc.
+(all publicly traded companies)
+Shelley Rogers, RN
+Associates in Nursing, Forsyth Technical Community College, NC
+Previous Positions: Labor and Delivery Nurse at Forsyth Hospital, Behavioral Emotional Handicap
+(BEH) Teacher’s Aide, NBHA District Director- District 6
+Special interests: Youth Ministry and Missions
+CORE	1	and 2d
+B. Personnel types and number (professional, clinical, technical, administrative support, employee,
+contractor, etc.):
+Professional /Management
+1. Executive (1) – The CEO plans, manages, and ensures the efficient implementation ofall
+objectives, goals and mission of the company, assures company’s compliance with all city,
+state, and federal laws, initiates all company policies and regulations, ensures the company’s
+increasing profitability and relevance, and represents the company in all public events.
+2. Operational / Administrative (1) – The COO manages all operational aspects of the company
+including administrative, and reporting/evaluation systems and procedures, and assists the
+CEO in the implementation of company objectives, goals and mission.
+3. Medical / Clinical (4)
+a) The Medical Director oversees all clinical staff training and continuing education, and,
+along with the technological department develops new technologies to improve the
+services of the company.
+b) Nurse Directors ensure the efficiency and continuing education of nurses, ensures
+compliance with the state board of nursing and state nurse practice requirements and
+related regulations, coordinates and discusses with Medical Director and COO on number
+and quality of phone calls served by the company
+c) Nurse Managers manage nurses’ schedules, maintain and update nursingguidelines,
+maintain nursing staff and ensures continuous availability of nurse service, conducts
+planning, monitoring and evaluation with nurses, provides clinical support, ensures the
+effective implementation and use of relevant software, ensures all office equipment and
+supplies are available and working
+d) Client Relations supervises the day-to-day management of all clients. Serves asthe
+primary contact person for nurse triage clients and the point of contact between the nurse
+managers, medical director and the clients.
+Clinical (approximate 30 FTE’s or 75 Part Time) – Nurses who directly provide nurse advice
+line to patients.
+Technological/Technical (4) – These are various staff who: 1) design new technologies or
+modules that become relevant as more practices use the software, 2) provide software support to
+clients and ensure that all relevant technological systems are working efficiently all the time, 3)
+ensure the security of all clients’ information, 4) provide training and support for intra-office
+communication systems, and 5) website development.
+Sales (1) - Conducts and follows up sales calls, and clinches business contracts.
+Marketing (3) – Designs, implements, and analyzes marketing strategies and paraphernalia, and
+designs and implements activities/strategies for continuing client relationships.
+Administrative (2) – Files all company documents, prepares invoices, receipts and liquidation
+reports, and conduct other office support such as mailing/posting, scanning, printing documents,
+etc.
+Chief Executive Name: Dr. CharuRaheja charu.raheja@triagelogic.com
+Corporate Medical Director Name: Dr. RaviRaheja ravi.raheja@triagelogic.com
+Compliance Officer Name: Julie Teague, CMAA julie.teague@triagelogic.com
+HR	Payroll	and	Benefits
+OASIS
+Chair	and	CEO
+Phone	RN
+Nurse	Managers
+Corporate	Counsel
+OversightManagementProcess
+Customer	Relations	
+Manager
+Clinical	Software	
+Training
+Software	Oversight
+Graphics	/	Web	Design
+Sales	and	Accounts	
+Manager
+PRN	
+Nurse	Managers
+Medical	Director URAC	and	Compliance	
+Officer Marketing	Director COO
+Phone	RN	Nurse	Manager
+Rules	&	Regulations
+Clinical	Training
+Nursing	Quality
+Client	Relations	Manager
+Client	Feedback
+Pt	&	Client	Satisfaction	Surveys
+Call	Stats
+PRN	Nurse	Manager
+Rules	&	Regulations
+Clinical	Training
+Nursing	Quality
+Quality Nursing OversightProcess All report to the Medical Director and COO. If there are any complaints, these are sent to
+the Client Relations Manager for resolution, and forwarded to the Medical Director for discussion and further attention, if needed. Rules and
+Regulations Managers are informed of the cases in order to avoid similar complaints in the future, or in order to formulate new policies
+procedures, if necessary. These are then reported to theCEO.
+Medical	Director	/	COO
+CEO	&	Quality	Committee	
+Members:
+Medical	Director/COO
+Phone	RN	Nurse	Manager
+Sales	&	Accounts	Manager
+Compliance	Supervisor
+Chief	Compliance	Officer
+Charu	Raheja
+Compliance	Officerr
+Julie	Teague
+Corporate	Counsel
+John	Roberts
+Information	Technology
+Regulations
+Quality	of	Servers	(Speed	and	
+Efficiency)
+HIPPA	Compliance
+Software
+Document	Management/IT
+Management
+Report	on	Sales	and	Accounts
+Report	on	IT	and	Nursing
+Information / Communication Flow
+Medical Director / COO meets with Sales/Accounts, IT, and Nursing, then reports to CEO. Compliance Officer-cum-Chair and CEO meets with
+Marketing and Corporate Counsel and shares with Medical Director/COO the results of the meetings.
+Planning /	Strategy	/	Regulatory
+Quality	Compliance
+Ensure	the	Efficient	
+Implementation	of	Policy	and	
+Procedure
+Treasurer’s	Report
+Approval	of	Policy	and	
+Procedures
+Delegation
+Credentialing
+PRN	/	Phone	RN
+Regulatory	Updates	and
+Requirements	For	Nursing
+Compliance	Issues
+Patient	Complaints
+Quality	of	Patient	Service
+Training	and	Education
+Credentialing
+12
+General TriageLogic Policy
+This	policy/procedure	appliesto:
+X		Triage Logic
+			Phone RN X PRN
+Effective	Date:
+11/13/13
+Name of
+Policy/Procedure: Policy &Procedure
+Development	andMaintenance
+Most	Recent	
+RevisionDate: 9/27/16
+Policy	#: 1 Most	Recent
+Review:
+I. POLICY
+TriageLogic will maintain a policy and procedure manual online. A new electronic copy of the P/P in its
+entirety will be emailed to replace the existing manual should a revision or update occur. The P/P will be
+emailed to the managers and the managers are responsible to distribute to necessary staff. The
+policy/procedure will be emailed to PRN and other staff as it relates to their job.
+TriageLogic (TL) is dedicated to standardizing the way business is conducted among all staff (employed
+and contract). When people do things the same way every time, they eventually become able to complete
+the process in a shorter amount of time, which means they can do more work in the same amount of time.
+Consistency also breeds confidence. Consistent methods assure clients that the company will handle
+accounts with the same care and precision during each interaction. Consistency helps employees and
+alike know what to expect when faced with a given situation.
+TriageLogic has employees in multiple locations and/or employees that work different shifts, staff that
+leave the company and new employees will join the company. The easiest way to communicate
+expectations and processes to all employees without missing anyone, leaving information out or being
+inconsistent is to write and distribute a formal policy and procedure document. Making sure that everyone
+has access to the same information assures quality management.
+All policies and procedures will be reviewed and approved by the Planning/Strategy/Regulatory
+Committee annually, between the months of August and October. This includes all policies and
+procedures related to the following: Clinical Policies, Quality, and IT. CORE	3c. Since policies and
+procedures can change throughout the year, new policies and procedure revisions can be brought to any
+weekly committee for approval and documented in the minutes.
+Depending on the change made to the policy/procedure, employee training will take place at individual
+monthly meetings. In addition, when the policy is updated, the employee will receive a current copy of
+the policy/procedure manual in its entirety and will attest they received it and will comply.
+A standardized format for policies and procedures will not be required at TriageLogic as some forms are
+better than others for a given process; however, the following are required of every TL policy and
+procedure.
+TRIAGELOGIC, LLC
+CORE 3
+13
+Effective dates, review dates (including the date of the most recent revision) and an approval signature from
+the Planning/Strategy/RegulatoryCommittee.
+CORE	3 (d)
+The Effective Date is defined as the date upon which the policy or procedure is to take effect. This date
+may be different from the date upon which the policy or procedure was recorded with a revision date.
+The Most Recent Revision is defined as assigning a unique revision number to a policy or procedure and
+dating it. These numbers are generally assigned in increasing order and correspond to a newer version of a
+policy or procedure. Revision control is used for keeping track of incrementally different versions of
+policies and procedures.
+The Most Recent Review date is the date that the policy or procedure was reviewed or evaluated. The
+revision date does not change on the policy or procedure unless a revision was made to it.
+Revision of an Existing Policy/Procedure
+Effective Date: 09/1/13
+Most Recent Revision 10/1/13
+Most Recent Review: 10/1/13
+Related Documents
+See Master List of Policies andProcedures
+14
+II. Document Management Policy (Managing Documents) CORE	3a,	c, d
+This	policy/procedure	appliesto:
+X		Triage Logic
+			Phone RN
+X PRN
+Effective	Date:11/13/13
+Name	of	Policy/Procedure:Document
+Management
+Most	Recent	RevisionDated:
+Policy	#: 2 Most	Recent Review: 9/27/16
+A. PURPOSE
+This policy establishes the framework under which official records and documents of TriageLogic are
+created and managed.
+B. POLICY
+Records and documents created, received or used by Triage Logic staff in the normal course of business,
+including all email communication, are the property of the Company, unless otherwise agreed. This
+includes reports compiled by external consultants commissioned by theCompany.
+The	Company	email	system	is	Company	property,	and	as	such,	is	subject	to	monitoring.	System	monitoring	is	done	
+for	employee	protection	and	the	protection	of	the	rights	or	property	of	the	Company.	
+As	noted	above,	electronic	mail	is	subject	at	all	times	to	monitoring,	and	the	release	of	specific	information	is	
+subject	to	applicable	laws	and	Company	rules,	policies	and	procedures	on	confidentiality.	Existing	rules,	policies	
+and	procedures	governing	the	sharing	of	confidential	information	also	apply	to	the	sharing	of	information	via	
+commercial	software.	
+Triage Logic’s official records constitute its corporate memory, and as such are a vital asset for ongoing
+operations, and for providing evidence of business activities and transactions. They assist in making better
+informed decisions and improving business practice by providing an accurate record of what has occurred
+before.
+Therefore, records are to be:
+• Managed in a consistent and structured manner
+• Managed in accordance with Triage Logic guidelines and procedures
+• Stored in a secure manner; (Call Center Software System)
+And documents are to be:
+15
+• Created and managed by authorized officers and their direct subordinates
+Recordkeeping and Document Management System
+TriageLogic’s recordkeeping and document management system assists staff to capture records, protect
+their integrity and authenticity, provide access through time, dispose of records no longer required in the
+conduct of its business, and ensure records of enduring value are retained. It also facilitates the creation,
+version control, authority of official corporate documents.
+TriageLogic’s recordkeeping and document management system is managed by the office of the CEO.
+TriageLogic has authorized recordkeeping and document management system in either paper form, Sugar
+Sync and in its Call Center SoftwareSystem.
+All staff is to use the Call Center Software and Sugar Sync to ensure that:
+• official records and documents are routinely captured and subjected to the relevant retention
+and disposal authority;
+• access to records and documents is managed according to authorized access and appropriate
+retention times regardless of location;
+• records and documents are protected from unauthorized alteration or deletion;
+• documents are version controlled as required;
+All staff, who create, receive and keep records and documents as part of their daily work, should do so in
+accordance with established policies, procedures and standards. Staff should not undertake disposal of
+records without authority – and only in accordance with authorized disposal methods. 
+16
+••••
+17
+III. Company Website Policy CORE 3a
+This	policy/procedure	appliesto:
+X		Triage Logic
+			Phone RN
+X PRN
+Effective	Date:4/16/2013
+Name of Policy/Procedure: WebsitePolicy Most	Recent	RevisionDate:4/16/2013
+Policy	#: 3 Most	Recent	Review: 9/27/16
+PURPOSE
+This policy explains our information practices, defines your privacy options and describes how your
+information is collected andused.
+This policy covers the website at http://www.triagelogic.com (the “TL Website”). The TL Website is
+owned and operated by Triage Logic Management and Consulting, LLC ("TLMC"), a Tennessee limited
+liability company (“TL”). Should you have privacy questions or concerns, send an email
+to info@triagelogic.com.
+By using visiting the TL Website, you agree to the collection and use of information in the manner
+described in this policy. TL shall have right at any time and without prior notice, at its sole discretion, to
+revise this policy. If we make material changes to this policy, we will notify you at this TL Website, by
+email, by means of a notice the next time you log in to the TL Website, or by means of a notice on the TL
+Website homepage. Such revisions and additions shall be effective immediately upon notice. You are
+responsible for reviewing the TL Website periodically for any modification to this policy. Any access or
+use of the TL Website by you after notice of modifications to this policy shall constitute and be
+deemed to be your agreement to such modifications.
+The Information we collect
+This policy applies to all information collected on the TL Website and any information you provide to TL.
+You will most likely provide us personal information to us when you request information from TL, register
+as a user of TL Website or participate in certain TL promotions or events. The personal information we may
+collect includes: your name, address, email address, name of employer and phone numbers.
+Posting or SendingInformation
+The TL Website may permit you to post information to the TL Website or send information to TL. When
+you post information to the TL Website, other site visitors can also view that information. We urge you to
+exercise caution when providing personally identifiable information to TL or the TL Website.
+18
+Our Collection of Your Data
+In addition to the personal information you supply, we may collect certain information to evaluate how
+visitors, guests, and customers use the TL Website. We collect data to make the TL Website work better
+for you in the following ways: to improve the design of the TL Website, to provide personalization on the
+TL Website and to evaluate the performance of our marketing programs. The technologies we may use to
+gather this non-personal information may include “IP” addresses, “cookies”, browser detection, and
+“weblogs”.
+How we Use Information
+Our primary goal in collecting your information is to provide you with a personalized, relevant, and positive
+experience with the TLWebsite.
+You can register on the TL Website to receive promotions and updates, or to be contacted for product
+information purposes. You can control your privacy preferences regarding such marketing communications
+(see the section below entitled “Your Privacy Preferences”).
+From time to time, you may be invited to participate in optional customer surveys or promotions, and TL
+may request that you provide some or all of the above listed personal information in those surveys or
+promotions. We use information collected from surveys and promotions to learn about our customers in
+order to improve our services and develop new products and services of interest to our customers.
+IP addresses define the Internet location of computers and help us better understand the geographic
+distribution of our visitors and customers and manage the performance of the TL Website. Cookies are tiny
+files placed onto the hard drive of your computer when you visit the TL Website, so we can immediately
+recognize you when you return to the TL Website and deliver content specific to your interests. You may
+modify your browser preferences to accept all cookies, be notified when a cookie is set, or reject all
+cookies. Please consult your browser instructions for information on how to modify your choices about
+cookies. If you modify your browser preferences, certain features of the TL Website may not be available
+to you.
+We may detect the type of web browser you are using to optimize the performance of the TL Website and
+to understand the mix of browsers used by our visitors, guests, and customers. To learn about how people
+use our site, we examine weblogs, which show the paths people take through the TL Website and how long
+they spend in certain areas.
+TL may contract with unaffiliated third parties to provide services such as customer communications,
+website analytics and other services. When we do this, we may provide your personally identifiable
+information to third parties only to provide those services, and they are not authorized to use your
+personally identifiable information for any other purpose.
+19
+Our Commitment to DataSecurity
+Access to your data is limited to authorized TL staff or approved vendors. Although total security does not
+exist on the Internet, TL shall make commercially reasonable efforts to safeguard the information that you
+submit to TL or that TL collects.
+Use of the TL Website byChildren
+The TL Website is not intended for use by children under the age of 13.
+Your PrivacyPreferences
+When you sign up as a registered user of the TL Website you may begin receiving marketing
+communications such as e-mail newsletters, product and service updates and promotions. Our customers
+generally find this type of information useful. If you do not want to receive these updates, you must “optout” by unchecking the “Add me to the mailing list” box on the registration page, or should you choose to
+opt-out after registering, you can use any of the following methods: select the “unsubscribe” link at the
+bottom of the email and follow the opt-out instructions; or send an email to unsubscribe@triagelogic.com.
+How to Access or Correct Your Information
+You can access and maintain your personally identifiable information that we collect by sending us an
+email to info@triagelogic.com. To protect your privacy and security, we require a user ID and password to
+verify your identity before granting access or making corrections to such personally identifiable
+information.
+Disclosure ofInformation
+We reserve the right to disclose your personally identifiable information as required by law and when we
+believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court
+order or legal process. It is also possible that TL would sell the company or all or substantially all of its
+assets. In any transaction of this kind, customer information, including your personally identifiable
+information, may be among the assets that are transferred. If we decide to so transfer your personally
+identifiable information, you will be notified by an email sent to the last known email address in our files
+and/or by notice posted on the TL Website.
+Privacy and OtherWebsites
+The TL Website may contain links to other websites. TL is not responsible for the privacy practices of these
+other sites. We encourage you to be aware when you leave our site, and to read the privacy statements of
+each web site that collects personally identifiable information. Some linked sites may be co-branded with
+our trademarks and those of our business partners. They may have the look and feel
+of www.triagelogic.com, but the URL in your browser window will indicate that you are visiting a different
+site. This policy only applies to information collected by TL.
+Company website policy will at all times be available in TL website. Currently, it is listed in the following
+area: http://www.triagelogic.com/Privacy
+19
+2. Compliance –
+1. Law and Regulatory Compliance – General
+This	policy/procedure	appliesto:
+X		Triage Logic
+			 Triage	LogicManagement
+		X Phone
+RN X PRN
+Effective	Date:11/13/13
+Name	of	Policy/Procedure:Regulatory
+Compliance Policy
+Most	Recent	RevisionDate:10/30/15
+Policy	#: 4 Most	Recent Review: 9/27/16
+I. PURPOSE
+This policy applies to Triage Logic Management & Consulting, LLC (“TL”) and shall apply to all
+employees of TL, agents of TL and employees of TL subcontractors (collectively the “Service Providers”).
+II. POLICY
+The purpose of the policy is to establish a process to report Potential Compliance Issues, including any
+potential identified issues or questions associated with TL’s Standards of Conduct, TL policies and
+procedures, laws and regulations relating to Federal health care programs, including but not limitedto
+Health Insurance Portability and Accountability Act (HIPAA), and URAC. Furthermore, to the extent that
+there is a potential violation of a criminal, civil, or administrative law, it is the intent of this policy to allow
+issues to be promptly and thoroughly investigated and appropriate corrective action to be implemented.
+PCI - Potential Compliance Issues. All individuals are expected to report PCI immediately upon discovery
+or notification of the same. Reports can be made to an immediate supervisor, department director, Facility
+Compliance officer, Chief Compliance Officer or designee.
+If reports are made to a supervisor or department director, that individual is expected to immediately
+forward the report to the Medical Director and to the CEO.
+III. PROCEDURE
+a. Compliance Plan for TriageLogic, LLC – CORE 4
+TriageLogic, LLC (“TL”) voluntarily implements a compliance program to foster an environment of
+ethical and legal behavior in support of the mission of TL. The main elements of TriageLogic’s
+Compliance Plan are:
+1. Commitment to Compliance
+a.) Standards of Conduct
+b.) Marketing
+CORE 4	& 5
+20
+c.) Retention of Records/Documentation
+2. Designation of a Compliance Officer
+3. Training and Education for Compliance
+4. Communication of Compliance Guidelines
+5. Disciplinary Guidelines
+6. Auditing and Monitoring
+7. Correction Action
+Federal and State Rules Verification Process
+21
+Additional:
+1. Annual meeting with accountant to discuss any changes in law and need for new
+filings (2nd quarter of the year).
+2. Meeting with John Roberts upon renewal of contracts or for new contracts.
+1. Commitment to Compliance
+a.) Standards of Conduct
+TriageLogic promotes adherence to the Compliance Program as a major element in the
+performance evaluation of all staff members. TriageLogic employees are bound to comply, in
+all official acts and duties, with all applicable laws, rules, regulations, standards of conduct,
+including, but not limited to laws, rules, regulations, and directives of the federal government
+and the state of Florida, URAC standards and rules, and policies and procedures of
+TriageLogic.
+These current and future standards of conduct are incorporated by reference in this
+Compliance Plan.
+All candidates for employment shall undergo a reasonable and prudent investigation. Criminal
+background checks will be performed on all staff that will have access to PHI, along with
+verification of licensure status, certification credentials verification and reference checks, to the
+extent permitted by law. Due care will be used in the recruitment and hiring process to prevent
+the appointment to positions with substantial discretionary authority, persons whose record
+(professional licensure, credentials, prior employment) gives reasonable cause to believe the
+individual has a propensity to fail to adhere to applicable standards of conduct. CORE	4 b
+All new employees will receive orientation and a copy of TriageLogic’s compliance policies
+and procedures. Participation is a required training condition of employment.
+Every employee will receive periodic training as changes or revisions occur to the initial
+compliance training received uponhire.
+In addition, all employees with access to patient information or any other private information
+are required to sign our standard HIPAA agreement (as shown below at the end of this table).
+Non-compliance with the plan or violations will result in sanctioning of the involved
+employee(s) up to, and including, termination of employment.
+b.) Marketing
+TriageLogic will promote only honest, straightforward, fully informative, and non-deceptive
+marketing.
+22
+c.) Retention ofRecords/Documentation
+Triage Logic will ensure that all records required by federal and/or state law are created and
+maintained. All records will be maintained for a period of no less than seven years. Audio
+records will be kept for a period of 3 months. Documentation of compliance effortswill
+include staff meeting minutes, memoranda concerning compliance, problems identified and
+corrective actions taken, the results of any investigations, and documentation supportive of
+assessment findings and plan of care.
+2. Designation of a Compliance Officer
+TriageLogic has a designated compliance officer to serve as the coordinator of all compliance
+activities.
+The responsibilities of the compliance officer are:
+• Overseeing and monitoring the implementation of the compliance program
+• Reporting as needed to the Medical Director/COO and subsequent affected committees of
+compliance issues, policy and procedure changes/revisions.
+• Developing and distributing or giving to the CEO to distribute all written compliance
+policies and procedures to all affected employees.
+• Periodically revising the program in light of changes in the needs of the organization and in
+the law; and changes in policies and procedures of government.
+• Developing and coordinating educational and training programs that focus on the elements
+of the compliance program and seeks to ensure that all employees are knowledgeable of,
+and comply with, pertinent federal and state standards.
+The compliance officer has the authority to review all documents and other information relative to
+compliance activities, including, but not limited to, records concerning marketing efforts,
+arrangements and agreements with clients, HIPAA documentation and patient data.
+3. Conducting Training and Educational Programs CORE (b)
+TriageLogic requires all employees to attend specific training upon hire and on a p.r.n. basis
+thereafter. This will include training in federal and state regulations, program requirements,
+policies and procedures. The training will emphasize TL’s commitment to compliance with these
+legal requirements and policies. The amount of training will depend on the degree of compliance
+issues handled by the employee based on the job description.
+4. Communication CORE 4c
+TriageLogic has an open-door policy where employees may seek clarification from the compliance
+officer in the event of any confusion or questions regarding a policy or procedure.
+23
+Any person who has reason to believe that a potential problem or questionable practice is or may
+be in existence should report the circumstance to the Compliance Officer. Such reports may be
+made verbally or in writing, and may be made on an anonymous basis. The Compliance Officer
+will promptly document and investigate reported matters that suggest substantial violations of
+policies, regulations, statutes, or program requirements to determine their veracity. The
+compliance officer will maintain a log of such reports, including the nature of the investigation and
+its results. All compliance issues will be shared with the Medical Director/COO promptly.
+The Compliance Officer will work closely with legal counsel who can provide guidance regarding
+complex legal and management issues.
+Compliance officer or the CEO will report any changes to policy and new laws and regulations
+during the general management meeting. Such matters will be documented in the minutes and
+emailed to all employees who are affected by the new law or policy.
+5. Disciplinary Guidelines
+All members of TriageLogic will be held accountable for failing to comply with applicable
+standards, laws, and procedures. Supervisors and/or managers will be held accountable for the
+foreseeable compliance failures of theirsubordinates.
+The supervisor or manager will be responsible for taking appropriate disciplinary actions in the
+event an employee fails to comply with applicable regulations or policies. The disciplinary
+process for violations of compliance programs will be administered according to practice protocols
+(generally oral warning, written warning, suspension without leave, leading to termination)
+depending upon the seriousness of theviolation.
+If the deviation occurred due to legitimate, explainable reasons, the compliance officer and
+supervisor/manager may want to limit disciplinary action or take no action. If the deviation
+occurred because of improper procedures, misunderstanding of rules, includingsystemic
+problems, the compliance officer will take immediate actions to correct the problem.
+After receipt of an investigative report, the Compliance Officer and Medical Director/COO shall
+determine the action to be taken upon the matter.
+6. Auditing and Monitoring
+The Compliance Officer will conduct evaluation of compliance on an as needed basis and
+regularly report to the Medical Director/COO. Compliance officer is responsible for:
+a) Keeping track of laws and regulations in the jurisdictions that the companyconducts
+business. This may involve seeking guidance from an outside counsel on the current laws
+24
+Chief	Compliance	Officer
+Charu	Raheja
+Compliance	Supervisor
+Julie	Teague
+Corporate	Counsel
+John	Roberts
+Information	Technology
+Regulations
+Quality	of	Servers	(Speed	and	
+Efficiency)
+HIPPA	Compliance
+Software
+Document	Management/IT
+Management
+Report	on	Sales	and	Accounts
+Report	on	IT	and	Nursing
+and regulations, seeking help and guidance from the medical director, the nurse supervisor,
+or any other party that can help with information on rules and regulations. Currently,
+TriageLogic has a contract with Corporate Counsel to assist TL in staying abreast of law
+and regulations. Corporate Counsel is responsible for bringing to the attention ofTL
+applicable laws and regulations related to their business model. CORE	4a	TheMedical
+Director is also responsible for keeping track of laws and regulations related to nursing and
+reporting it to the CEO. CORE 4b
+b) Ensuring compliance with the law and policy by evaluating documents, auditing fillings,
+etc. Core 4b
+c) Searching available databases such as:
+https://www.gsaig.gov/node/31 and	
+www.dol.gov/ofccp/regs/compliance/preaward/debarlst.htm (businesses)	and
+https://www.npdb.hrsa.gov/hcorg/pds.jsp,	and https://exclusions.oig.hhs.gov/ to
+ensure that employees have not been barred from working in healthcare, upon hire. An
+attestation will be signed by each person performing the applicable checks.
+See chart below on the compliance requirements and reporting (Figure 3a
+Planning	/	Strategy	/	Regulatory
+Quality	Compliance
+Ensure	the	Efficient	
+Implementation	of	Policy	and	
+Procedure
+Treasurer’s	Report
+Approval	of	Policy	and	
+Procedures
+Delegation
+Credentialing
+PRN	/	Phone	RN
+Regulatory	Updates	and
+Requirements	For	Nursing
+Compliance	Issues
+Patient	Complaints
+Quality	of	Patient	Service
+Training	and	Education
+Credentialing
+25
+7. Corrective Action
+Violations of TriageLogic’s compliance program, failure to comply with applicable state or
+federal law, and other types of misconduct may threaten TL’s status as a reliable, honest, and
+trustworthy business. Detected, but uncorrected, misconduct may seriously endanger the mission,
+reputation, and legal status of TriageLogic. Consequently, upon reports or reasonable indications
+of suspected noncompliance, the Compliance Officer must initiate an investigation to determine
+whether a material violation of applicable laws or requirements has occurred.
+The steps in the internal investigation may include interviews and a review of relevant
+documentation. Records of the investigation should contain documentation of the alleged
+violation, a description of the investigative process, and the documents reviewed, the results of
+the investigation, and the corrective actions implemented.
+If the results of the internal investigation identify a problem, the response may be development of
+a corrective action plan, and reporting to the affected parties. Corrective action should be
+completed within 30 business days. CORE 4c
+This compliance plan may be altered or amended in writing only with the concurrence of the
+Compliance Officer. The adoption of this Compliance Plan has been approved and authorized as
+designed below.
+Charu G. Raheja 1/18/17
+Charu G. Raheja, PhD, CEO Date
+Ravi K. Raheja 1/18/17
+Ravi K. Raheja, MD, Medical Director,COO Date
+Julie Teague 1/18/17
+Julie Teague, CMAA, Compliance Officer Date
+26
+This	policy/procedure appliesto:
+X	Triage Logic
+X		Phone RN
+			PRN
+Effective	Date:2/21/14
+Name of Policy/Procedure: Verification of State,
+Federal and Nursing Laws forTriageLogic
+Most	Recent	RevisionDated:
+Policy	#: 37 Most	Recent Review: 9/27/16
+I. Purpose
+To understand what state and federal laws and regulations apply to providing nurse triage services
+and to ensure that these laws and regulations are followed by staff of TriageLogic. To implement a
+process to monitor changes to state and federal laws related to nurse triage services and put these
+changes into effect.
+II. Procedure
+A. Steps for Initial Entry Into a State To Provide Nurse Triage Services
+1. Determine if the state participates in the nursing compact or requires state specific
+licensure for the nurses providing nurse triage services.
+2. Review the State Board of Nursing to see what the nurse requirements are for that state to
+practice telephone triage nursing. Determine if there are any special laws on what a nurse
+can or cannot do in that state related to triage services.
+3. Check with Legal Counsel to see what the corporate requirements are for offering triage
+services in that state. (For example: in California you must file as an LLC to do business
+in that state).
+4. Use NexisLexis and/or Westlaw and/or internet search to research any state and federal
+laws related to nurse triage.
+Once the four steps above have been completed, the results will be added to the crosswalk
+for annual monitoring of each states rules and regulations.
+B. Steps for Annual Monitoring after Initial Entry Into a State
+1. The Compliance Officer or an RN within the company will review the states nurses’
+license requirement (compact or state specific) and review the board of nursing to see if
+there have been any interval changes for nurse triage requirements.
+2. Check with legal counsel to see if there has been any change to the state laws to provide
+services in that state.
+3. Use NexisLexis and/or Westlaw and/or internet search to research any state and federal
+laws related to nurse triage.
+The Corporate Compliance Officer will be responsible for monitoring on a yearly basis all
+State, Federal and NursingLaws.
+27
+The Compliance Officer along with the CEO and Medical Director will review any changes
+to policies and procedures that need to be made to meet new requirements.
+Affected staff will receive education on any new rule or law that may affect their position.
+The Compliance Officer will verify that all new rules and regulations are being followed
+with mechanisms that deem appropriate to given changes (i.e., case audits, etc. as needed).
+TriageLogic HIPAA Compliance Policy (updated December 2012)
+This	policy/procedure	appliesto:
+X	Triage Logic
+			Phone RN
+X PRN
+Effective	Date:12/2012
+Name of Policy/Procedure: HIPAACompliance Most	Recent	Revision	Date: 12/2012
+Policy	#: 5 Most	Recent	Review:9/27/16
+This TRIAGE HIPAA COMPLIANCE POLICY of Triage Logic Management & Consulting, LLC
+(“Triage”) shall apply to all employees of Triage, agents of Triage and employees of Triage
+subcontractors (collectively the “Service Providers”). All agents with access to patient data must sign
+this document.
+PURPOSE OF THIS POLICY. Service Providers are providing various health care servicesfor
+Triage (the “Services”) which may involve the observation or use of patients/patient records of
+hospitals, clinics or other health care organizations or entities that have entered into services agreements
+with Triage (these various health care groups shall be collectively referred to as the “Covered Entities”).
+In the course of providing such Services, Service Providers from time to time have access to or
+possession of Covered Entity’s patient protected health information or “PHI,” as such term is
+hereinafter defined. This Policy shall set forth the terms and conditions pursuant to whichService
+Providers shall use, secure and keep in confidence such PHI.
+1. Definitions. For the purposes of this Policy, the following terms shall have the following
+meanings:
+(a) Electronic Protected Health Information or “EPHI“. A subset of PHI, consisting of any
+PHI that is transmitted by electronic media or maintained in electronic media.
+(b) Individual. The person who is the subject of the PHI, and has the same meaning as the term
+“individual” as defined by the HIPAA Regulations.
+28
+(c) HIPAA Regulations. Those regulations codified at Title 45 of the Code of Federal
+Regulations (C.F.R.) and relating to privacy and security of PHI.
+(d) Protected Health Information or “PHI”. Any information concerning an Individual,
+whether oral or recorded in any form or medium: (1) that relates to the past, present or future
+physical or mental condition of such Individual; the provision of health care to such
+Individual; or the past, present or future payment for the provision of health care tosuch
+Individual; and (2) that identifies such Individual with respect to which there is a reasonable
+basis to believe the information can be used to identify such Individual, and shall have the
+meaning given to such term under the HIPAA Regulations.
+2. Disclosures and Use of PHI. Subject to this Policy, Service Providers shall not the use the PHI
+except as necessary to provide the Services. Service Providers hereby agrees that thePHI
+provided or made available to it shall not be further used or disclosed other than as permitted or
+required by this Policy. Without limiting the foregoing, Service Providers agrees: (i) not to
+share PHI with anyone not directly involved in the patient’s care or treatment; (ii) not to discuss
+PHI in areas where it may be overheard; (iii) not to access any PHI without specific direction by
+Triage; (iv) not to attempt access to PHI for personal reasons; (v) to inform Triage ofany
+personal relationships which Service Providers may have with a patient or patient’sfamily
+whose PHI Service Providers may access; (vi) if allowed access to EPHI by Triage orthe
+Covered Entity, to clear computer screens of PHI before leaving the screen; (vii) to return any
+PHI provided on paper to the professional staff member or employee who provided it orto
+dispose of it within the facility using a shred-it box or as otherwise directed by the person who
+provided it; (viii) not to store or transmit any PHI using a portable device or any other
+electronic means; (ix) not to remove PHI in any form from the Covered Entity’s facility; and
+(x) not to make any photographs, videos, voice recordings or any other reproduction of any PHI.
+3. Service Providers Obligations.
+(a) Right of Access to PHI. Service Providers and its representatives and employees shall
+forward all Individual requests for access to PHI to Triage within one (1) business days
+of receipt.
+(b) Amendment of PHI. Service Providers shall forward all requests for amendments to
+an Individual’s PHI to Triage within one (1) business days of receipt.
+(c) Accounting of Disclosures. Service Providers shall forward all requests for an
+accounting of disclosures of PHI to Triage within one (1) business days of receipt.
+(d) Reports of Improper Use or Disclosure and Cooperation. Service Providers shall
+report in writing to Triage within one (1) business day of discovery any use or
+disclosure of PHI not provided for or allowed by this Policy. Service Providersshall
+cooperate with Triage and the Covered Entity in any review/investigation of an actual
+or potential breach of HIPAA privacy or security regulations.
+29
+4. Termination and Breach
+(a) Immediate Termination. In regard to Triage employees, Triage reserves the rights to
+discipline any employee of Triage that has breached this Policy, including, the right to
+terminate such employee’s employment with Triage. In regard to Triage
+subcontractors and agents, Triage reserves the right to terminate their agreement with
+such subcontractors and agents if they breach this Policy, and to seek such relief
+allowed by the contract with such subcontractor or agent and applicable law.
+(b) Injunctive Relief. Notwithstanding any rights or remedies provided for in this Policy,
+Triage shall be entitled to obtain temporary and permanent injunctive relief from any
+court of competent jurisdiction to prevent or stop the unauthorized use or disclosure of
+PHI by Service Providers.
+(c) Return or Destruction of PHI. Upon the termination or expiration of Service
+Providers’ employment, agency or subcontract relationship with Triage, Service
+Providers hereby agrees to return to Triage all PHI received from, or created or
+received by Service Providers, from or on behalf of Covered Entity.
+5. General Provisions
+(a) State Law Preemption. Certain provisions of state law relating to privacy of PHI may
+not be preempted by, and may supersede, the HIPAA Regulations. With respect to
+such provisions of state law not preempted by the HIPAA Regulations, Service
+Providers shall maintain full and complete compliance with all state privacy
+requirements.
+(b) Property Rights. All PHI shall be and remain the property of Triage or the Covered
+Entity. Service Providers agrees that it shall not acquire any title or rights to any PHI.
+(c) Changes. This Policy may be unilaterally modified by Triage in response to new
+statutory or regulatory requirements related to HIPAA, the HIPAA Regulations or other
+applicable state or federal law relating to security and privacy of PHI. Any ambiguity
+in the language contained in this Policy shall be interpreted consistent withHIPAA
+Regulations.
+Agreed to and Acknowledgedby:
+By:
+(Signature)
+Name:
+(Print or Type)
+Company:
+Date:
+30
+2. Inter-Departmental Coordination – CORE 5
+Interdepartmental communication in a nurse triage setting is fundamental to the provision of quality patient
+care. Effective communication modes are important because they result in the improvement of patient care.
+TriageLogic implements the following processes for interdepartmental communication:
+Regular Department/Team Meetings. Discuss progress over the past week, what lies ahead, and use the
+opportunity to give positive feedback and improve morale. See for example, TriageLogic’s Management
+meetings.
+Team Briefing. This is a way of passing information from the top of the business down to all employees,
+and allowing employees to send feedback to the top management.
+Interdepartmental/Interdisciplinary Teams. Occasionally, we foster communication across departments
+and functions by creating teams to work on projects such as identifying cost savings or improved quality.
+Newsletters. TriageLogic publishes newsletters with contributions from employees and information about
+current activities within the company. We publish both newsletters designed for outside audience as well as
+internal newsletters.
+Meeting Minutes. We document action items and who is responsible for completing them at the end of
+meetings.
+Email.
+Social Networking. TriageLogic uses for technologies such as http://www.twitter.com and Facebook to
+communicate companyinformation.
+31
+Marketing
+Review	of	marketing	&	
+sales	materials,	
+Compliance	with	
+marketing	laws,	Quality	
+of	marketing	materials
+Presiding	Officer
+COO
+Members
+Marketing	Manager
+Web	/	Product	Designer
+Chair	and	CEO
+Information	
+Technology
+Regulations,	Quality	of	
+servers	(Speed	&	
+efficiency),	HIPAA	
+Compliance
+Presiding	Officer
+Medical	Director/COO
+Members
+Head	of	IT
+Corporate	Counsel
+TriageLogic Meeting Structure
+Sales
+Presiding	Officer
+COO
+Members
+Sales	and	Accounts
+Manager
+PRN	 /	Phone	RN
+Regulatory	updates	&	
+nursing	requirements,	
+Compliance	issues,	
+Patient	complaints,	
+Quality	of	patient	service
+Presiding	Officer
+Medical	Director/COO
+Members
+Client	Relations	Manager
+PRN	Directors
+Nurse	Managers
+Planning	/	Strategy	/	Regulatory
+(Annually)
+Quality	Compliance,	Treasurer’s	Report,	
+Approval	of	Policy	and	Procedures
+Presiding	Officer
+CEO
+Members
+Medical	Director	/	COO
+Compliance	Supervisor
+Quality	(Quarterly)
+Progress	Reports,	recommended	changes	
+in	business	implementation,	rationale	
+behind	changes,	evaluation	of	
+PRN/Phone	RN	quality	of	care	&	integrity	
+of	data	inputs
+Presiding	Officer
+CEO	and/or	Compliance	Supervisor
+Members
+Medical	Director/COO
+Client	Relations	Manager
+Nurse	Manager
+Sales	and	Accounts	Manager
+Management
+Report	on	sales	and	
+accounts,	Report	on	IT	
+and	nursing
+Presiding	Officer
+Chair	/	CEO
+Members
+Medical	Director	/	COO
+Sales	and	Accounts	
+Manager
+Marketing	Manager
+Web/Product	Designer	
+Management	Support
+32
+3. Marketing and Sales Communication – CORE 10
+This	policy/procedure	appliesto:
+X		Triage Logic
+			PRN
+X			Phone RN
+Effective	Date: 11/13/13
+Name of Policy/Procedure: Marketing and Sales
+Communications
+Most	Recent	RevisionDate:
+Policy	#: 6 Most	Recent Review: 9/27/16
+IV. PURPOSE
+The purpose of this policy and procedure is to establish the lines of responsibility for, and the standard of,
+TriageLogic’s (TL) branding, marketing and communications efforts to its clients and consumers. This
+policy and procedure applies to all TL divisions, partners, departments and programs.
+V. POLICY
+The goal of TriageLogic’s marketing and sales communications policy is to produce both internal and
+external messages of high quality that are consistent with TL’s mission, branding, positioning and
+strategic priorities.
+These policies/procedures are intendedto:
+• Maximize opportunities to enhance TL’s visibility;
+• Ensure all information is consistent with TL’s design and editorial standards;
+• Provide central resources to assist all TL departments and programs;
+• Integrate efforts between all areas of TL to optimize creativity in design and message, as
+well as to improve information flow, ensuring compliance;
+• Ensure TL is efficiently leveraging its marketing and advertising investments at all levels
+and in all areas;
+• Make information flow more efficiently; and
+• Reduce miscommunication.
+VI. PROCEDURE
+Effective communications are central to the success of TL. For TL to properly communicate with a
+consistent voice to its clients and consumers, it is essential that the marketing and communications
+activities of TL be coordinated through one central area, the Marketing Committee embedded within the
+Office of the Chair and CEO. The Marketing Committee has the final approval authority for all
+marketing and sales communications for the company.
+The Chair/CEO participates in the marketing meeting and is charged with oversight for the development
+of marketing and communications strategies, and for coordinating the external communications activities
+of TL. A marketing representative also reports marketing activities and plans during the management
+33
+meeting to ensure coordination of marketing work with the company goals and safeguard against possible
+misrepresentations. CORE	10	A	andB
+All external communications activities of TL will be coordinated through, and approved by, the
+Marketing Committee. These activities include, but are not limited to:
+• Publications (including print and electronic “e-publications”);
+• Logos and unit identity;
+• Advertising (The term advertising includes traditional media channels – TV, radio,billboard,
+magazine, newspaper, etc.) as well as marketing communications that utilize new media channels,
+including websites, email solicitations, product placement and other activities involved in
+marketing TL.
+• General media relations (distribution of press releases, development of external newswires,
+faculty expert databases and all other activities related to media relations);
+• Promotional videos;
+• Primary TriageLogic web pages;
+• Emergency communications;
+• Market research; and
+• Social Media.
+The Marketing Committee assists with all TriageLogic communications to TL staff, PRN, and TLM (for
+software related marketing, ensuring that the TL image is accurately and positively portrayed in news,
+promotional materials, activities and events. TriageLogic emphasizes a collaborative approach through
+multiple communications networks, guided by the Marketing Committee and the Marketing andSales
+Communications policy and procedure. Regular meetings promote a spirit of intellectual andcreative
+collaboration to optimize excellence and creativity in design and messaging, and compliance with policy.
+Regular meetings also help TL to respond quickly should a problem arise we will respond by taking down
+the information and informing affected parties if necessary. Correction will be made as soon as possible and at
+maximum, within 45 business days. CORE 10d
+All marketing and sales communication materials will be reviewed at least annually (most of them
+ongoing, but if not, then at least once every 12 months) by the Marketing Committee for accuracy,
+necessity and value. This review will include all communication materials with clients and consumers.
+CORE 10c
+VII. RELATED DOCUMENTS
+Master Marketing and Sales CommunicationsList
+Website
+Brochures
+Pay per Click campaign
+Handouts for conferences
+Newsletters
+Blogs
+34
+4. Business Relations for Delegated Work
+A. Delegation and Review CORE 6-•-9
+This	policy/procedure	appliesto:
+X	Triage Logic
+X PRN
+			Phone RN
+Effective	Date:11/13/13
+Name of Policy/Procedure: DelegationOversight
+Program
+Most	Recent	RevisionDate:
+Policy	#: 7 Most	Recent Review: 9/27/16
+I. PURPOSE AND SCOPE
+The purpose of this guideline is to ensure the efficient operation of Triage Logic, LLC (the
+“Company”) by providing guidelines for the appropriate signature authority and delegation of
+authority required for various transactions and activities at the Company.
+II. GUIDELINE STATEMENT
+In order to promote greater economy and efficiency, the Company has delegated authority
+concerning certain activities, such as nurse triage work. Accountability for the management of the
+delegated work by the Company ultimately rests with the CEO who expects those with signature
+authority under the terms of this guideline to safeguard Company resources by establishing and
+maintaining sound business controls that deter and detect any potential misuse of resources and
+legal requirements. The procedures outlined below identify those situations in which it is
+appropriate to use delegations of authority and the procedures that should be followed to make
+such delegations.
+III. DEFINITIONS
+Delegation of authority: As used in this guideline, a “delegation of authority” is the formal
+recorded conveyance of authority from the Company to the individual presidents and/or
+designees. Any such transfers of powers and duties are therefore significant actionsrequiring
+great care and scrutiny.
+Delegator: The employee who has authority to take action on behalf of the Company who
+transfers (“delegates”) his/her authority to an outside contractor (“Delegate”).
+Delegate: The contractor who is officially transferred the authority to act on behalf of the
+delegator.
+Signature authority: As used in this policy, “signature authority” is the permission to execute
+transactions up to limits established by relevant Company policies and permission to approve
+35
+transactions for execution. This approval attests to the appropriateness of the transaction within
+Company’s objectives and budgetary authorizations.
+Responsible: Chair/CEO and Medical Director COO
+Purpose: TriageLogic (“TL”) developed and implemented a Delegation Oversight Program in an
+effort to make available a synopsis of the TL delegation process. The DelegationOversight
+Program has four components as follows: (1) Selection of a Delegate; (2) Orientation forthe
+entity approved for delegation; (3) Delegation Oversight; and (4) Withdrawal of Delegation.TL
+provides assessment and oversight for the following functions: PRN Nurse Call.
+At this time TriageLogic does not delegate to any contractor that would require a site visit.
+IV. GUIDELINE FOR PROPER DELEGATION OF AUTHORITY
+General Scope ofDelegation
+Delegations of authority should be limited both in scope, number and time frame to those which
+are necessary to achieve efficiency while maintaining accountability. Delegations of authority are
+appropriate where the delegation will enhance the effectiveness and efficiency of the operation
+without risking the integrity of the internal control necessary for accountability. No delegation
+shall be made of all or substantially all of the powers held by any persons making a delegation, or
+where checks and balances would be minimized. Delegation of authority must not conflict with
+any Company policy. Individuals who receive delegated authority shall have active involvement
+with the activity being conducted; and have sufficient knowledge of the Company policies, rules,
+laws, regulations and procedures to ensure compliance, including compliance with URAC
+standards. CORE 8b
+Delegator will provide for training to the Delegate to ensure compliance with legislation and the
+policies referred to above.
+B. Selection of Delegate CORE 7
+Prior to delegating functions to another entity, the delegator and any other party assisting in
+finding a delegate must perform the following:
+1. Review all the potential contractors by doing the following: CORE 7a
+• Explore market for potential vendors
+• Meet with Owners
+• Due Diligence –such as references from current clients, surveys, discussion with
+current workers, etc.
+• Review contractor’s ability to perform delegated function according to company’s
+policy and procedure
+2. Each party involved with the decision will develop a list of criteria for what is needed
+from the delegated contractor. CORE 7b
+3. Enter into a written contract with contractor to satisfy URAC requirements CORE 8 a-• -h
+36
+Once a delegate has been selected, there must be a slow implementation of clients – a few at a
+time and evaluate capability and satisfaction.
+I. DELEGATION MANAGEMENT AND EFFECTIVE DATES
+The Office of the CEO will maintain a centralized file of all delegation of authority contracts
+related to this policy.
+A delegation of authority shall become effective on the date the delegation is fully executed and
+the contract between the delegator and delegate is signed. Delegations shall continue until
+revoked or modified. The departments are responsible for maintaining active and up to date
+delegations of authority and should review all delegations annually (or through ongoing reviews)
+to assure that the delegations on file are current. The delegation must be fully executed before any
+documents are signed by theDelegate.
+II. SIGNATURE AUTHORITY GUIDELINES CORE 8
+Within each department, the department head is responsible for the overall operations ofthe
+department and may assign signature authority to certain employees in compliance with this
+policy. The signature authority matrix will be updated for specific transactions and reported to
+the CEO office.
+Employees with signature authority are responsible for assuring thefollowing:
+• An understanding of what is being approved
+• Specifies the responsibilities being delegated to the contractor and those retained in the
+organization CORE 8a
+• The information and supporting documentation is accurate and complete
+• The transaction is allowable, legal, reasonable and justified
+• Services performed by delegate is in accordance the Company’s requirements and the
+requirements by the company’s certification requirements (such as URAC) CORE 8b
+• There are adequate funds to cover the expense
+• The internal controls for Delegation authority are specified (see below)
+III. INTERNAL CONTROLS FOR DELEGATION OF AUTHORITY
+It is the responsibility of the Delegator to maintain proper control and management of his/her
+area; the Delegator remains accountable for all actions taken by the Delegate. The Delegator
+shall take into account and maintain appropriate internal controls including separation of duties,
+reviewing reports, sampling completed transactions and monitoring the effectiveness ofthe
+controls established. Such controls need to be in writing in a contract between delegate and
+delegator. These internal controls need include (but are not limited to):
+a. Require notification to the organization of any material change in the contractor’s ability
+to perform delegated functions CORE 8c
+b. Specify that the organization may conduct surveys of the contractor, as needed CORE8d
+37
+C. Delegation Oversight CORE 9
+All transactions shall be authorized according to sound management practices.
+The fundamental premise of segregated duties is that an individual should not be in a position to
+initiate, approve, and review the same action. Delegator is responsible for oversight of the delegated
+function and reporting the effectiveness and oversight results to superiors. The following oversight
+items need to take place:
+1. An annual review of the contractor's written policies and documented procedures and
+documentation of quality activities for related delegated functions CORE 9a
+2. A continuing process to verify contractor's compliance with contractual requirements and
+written policies and documented procedures; such as scheduled meetings with Contractors
+(no less than once in a quarter) CORE 9b
+3. Scheduled meetings to discuss contractor’s financial transactions with other clients or general
+policies and contracts with other stakeholders to ensure that contractor has no financial
+incentive to deviate from contract agreement. CORE	9c	Approximately every 8 weeks a
+PRN/TL Management meeting is held to discuss the proceeding items.
+4. Independent evaluation of delegate’s work by delegator to ensure quality and compliance.
+Independent evaluation may include for example, annual surveys of people affected by
+contractor’s work, scheduled verification of contractor’s actual work performance such as
+listening to phone calls, verifying billing, etc.
+I. ORIENTATION FOR THE ENTITY APPROVED FOR DELEGATION
+Upon approval, the Planning/Strategy/Regulatory Committee schedules orientation for newly
+delegated entities. The delegated entity receives information including but not limited to:
+• TriageLogic contact information
+• Required TL reports and data
+• The method and frequency by which the reports and data will be received by TL.
+• Information regarding how and when the delegated entity must present reports to the
+appropriate committee.
+• Information regarding participation in TL Quality Improvement activities.
+II. WITHDRAWAL OF DELEGATION
+In the event the delegated entity does not comply with TL requirements, refuses to implement
+requested improvement strategy, and/or fails to submit the required documents/reports, TL will
+submit the information to the CEO office with the recommendation to withdraw delegation.
+All delegated activities are coordinated by the Planning/Strategy/Regulatory Committee with
+actual oversight and assessment conducted by the CEO. The Delegation Program is performed in
+collaboration with all TL committees and their policies and procedures specific to the delegated
+activity.
+A) TriageLogic Currently delegates the following service that directly affects clients:
+• Nurse Triage Contractor – PRN
+38
+B) List of Requirements for a nurse triage contractor: The following criteria were applied
+in 2006 in evaluating PRN:
+1) Agree to weekly meetings to discuss current issues
+2) Show a full training of nurses, including clinical as well as phone manners
+3) Show understanding of HIPAA and regulations
+4) Clear Communication channels with nurses
+5) Regular surveys of patients and physicians
+6) Nurse RNs only taking calls
+7) RN licensing verification, with annual updated spreadsheet of nurse license and
+malpractice insurance proof
+8) Nurse in charge and responsible for training and QA of other nurses
+9) Proper complaint resolution process demonstrated
+C) TriageLogic has the following regular checks with PRN:
+1) Weekly meetings with medical director to discuss current issues with a nurse
+representative and PRN owner.
+a. PRN must agree to comply with TriageLogic Policies and Procedures at all times to
+remain a contractor
+b. PRN discusses any marketing materials and needs to be submitted to marketing
+committee
+c. Medical director discusses any patient and client feedback, nurse incentives and
+results from monthly reports
+2) Meetings at least once every 2 months between PRN owners and TL management to
+discuss PRN financials and incentives, update contracts, etc. CORE 9c
+3) Once a year PRN submits nurses licenses and any other proof of continuing
+certifications of nurses
+4) Triagelogic studies data and reports from PRN nursing site. Medical Director receives
+and reviews reports at least once every 6 months
+5) Contract review and discussion once a year to ensure regulations are being followed
+39
+5. Business Relationships with Clients
+This	policy/procedure	appliesto:
+X		Triage Logic
+			Phone RN
+X PRN
+EffectiveDate:11/13/13
+Name of Policy/Procedure: WrittenBusiness
+Agreements/Client ContractReview
+Most	Recent	RevisionDated:		9/27/16
+Policy	#: 8 Most	Recent Review: 9/27/16
+I. PURPOSE
+TriageLogic will maintain signed written agreements with all clients. All agreements must clearly outline
+the scope of the business arrangement and the services to be provided.
+II. POLICY
+TriageLogic will maintain signed written agreements with all clients in both PDF and Original Hard
+Copy. The PDF version will be maintained by the Sales Account Manager and the Original HardCopy
+will be maintained in the CorporateOffice. Clients will be asked to mail the signed contract to the
+corporate office, but if they do not, a PDF will be sufficient.
+A client is defined as: a company for which TriageLogic performsservices.
+III. PROCEDURE
+It is the responsibility of the Sales Account Manager to obtain signed written agreements with all clients.
+Once the agreement is signed, the original hard copy is scanned into a PDF file by the Sales Account
+Manager and the Original is sent to the Corporate Office for permanentfiling.
+The Sales Account Manager will maintain a spreadsheet of all written agreements with clients.
+Contracts with Clients are self-renewing, unless requested otherwise by client. The SalesAccount
+Manager will report to the Medical Director or COO any contracts that are being terminated by client.
+From time-to-time, the CEO may request the Medical Director and the Sales Account Manager to review
+contracts for any possible changes in prices and terms. New terms will be discussed with client at least 2
+months prior to the contract renewaldate.
+ContractRequirements:
+The Nurse Triage Services Agreement needs to satisfy US regulation requirements, HIPAA requirements
+and URACrequirements.
+The following items outline the URAC requirements that need to be part of the TriageLogic Nurse Triage
+Contract. We have indicated the item number in the contract that satisfies the URAC requirements, and
+CORE 11, 12
+40
+the items that do not apply to TriageLogic’s scope of service:
+N/A – Not applicable
+NT – Nurse TriageContract
+• Clearly defined roles and responsibilities, scope of the business arrangement - NT Contract
+items 1 and 2
+• Services provided NT Contract item 3
+• The relationship of the organizations program with the client NT Contract item 13
+• Criteria for eligibility for the program N/A
+• Procedures for opting-in, opting-out, or dis-enrolling from the program N/A
+• Instructions for contacting the program for urgent and non-urgent situations NT Contract
+Exhibit B
+• A description of the potential health benefits of receiving program services N/A
+• The existence of restrictions, limitations or incentives in the program that may affect the
+participating consumer. N/A
+IV. RELATED DOCUMENTS
+See Nurse Triage ServicesAgreement
+41
+6. Client Management and Relations CORE 12, 17-•-24
+This	policy/procedure	appliesto:
+X	Triage Logic
+Phone RN
+X PRN
+Effective	Date:11/13/13
+Name	of	Policy/Procedure:Client
+Satisfaction/End	UserSatisfaction
+Most	Recent	RevisionDate: 9/28/16
+Policy	#: 9 Most	Recent Review: 9/28/16
+I. OBJECTIVE
+To conduct a survey of clients to determine the quality of service provided by the staff; to collect
+information on client needs and expectations; to identify perceived and potential problems that need
+improvement; and to make changes to improve service.
+II. CLIENT SATISFACTION DOCUMENTATION (surveys, etc.) CORE	12, 17
+TriageLogic surveys clients using a client satisfaction questionnaire developed in collaboration
+between the Medical Director and the Client Relations Manager. The questionnaire contains
+statement/questions to evaluate client satisfaction with the quality of the nurse triage service.
+Client relations manager participates in conducting the survey for at least a sample of the clients once a
+year and reports the results to the Compliance Officer for the Quality Management Committee. Quality
+Management Committee meets quarterly (see below in this section for more information about the
+committee).
+The Medical Director and Sales & Accounts Manager telephones and sets up meetings with clients on
+an as needed basis forfeedback.
+In addition, TriageLogic also maintains a complaint resolution process discussed below in the section.
+III. END USER (CONSUMER) SATISFACTION PROCEDURE AND DOCUMENTATION CORE
+39
+The purpose of the end use satisfaction is to ensure proper patient care.
+We currently conduct surveys that fall into the following quality domains: proficiency,
+responsiveness, communication, accommodation, and patient satisfaction. The survey is also seen as a
+vehicle for early identification of problems and of actions required for continuous quality
+improvement. An average score of 3.8 or above overall satisfaction was used as the acceptable
+performance standard. The survey is performed randomly on a portion of patients that are called to
+take part in the survey Patient survey is conducted at least once a year.
+42
+• Proficiency is the customer’s perception of the capability, expertise, or knowledge of the staff
+and the manner in which services are provided.
+• Responsiveness includes timeliness, assistance, and guidance.
+• Communication focuses on clarity of verbal and written expression.
+• Accommodation regards the behavior or interpersonal skills of staff; statements in this domain
+focus on respect, courtesy and sensitivity.
+• Patient Satisfaction pertains to the overall patient impression of the encounter with staff;
+statements in this domain focus on improving services offered to clients and the appropriateness
+of the surveillance process.
+Results:
+The results of the client and consumer surveys will be tabulated and reported to the CEO and Quality
+Committee. The committee will review all survey results and determine priorities for improvement.
+All specific areas of concern will be incorporated into the Quality Improvement Program.
+IV. RELATED DOCUMENTS
+See Patient Evaluation Survey
+See Client Satisfaction Survey
+43
+44
+46
+V. QUALITY MANAGEMENT PROGRAM CORE 17
+This	policy/procedure	appliesto:
+X	Triage Logic
+Phone RN
+X PRN
+Effective	Date:11/15/13
+Name	of	Policy/Procedure:Quality
+ManagementProgram
+Most	Recent	RevisionDate: 9/27/16
+Policy	#: 29 Most	Recent Review: 9/27/16
+Scope CORE	19b
+The goal of the Quality Management Program (QMP) is to establish leadership structure throughout the
+path of quality workflow that enables TriageLogic to provide a high quality call center service.
+TriageLogic QMP is designed to promote quality to patients, quality to clients (doctors and hospitals) and
+internal quality of nursing. CORE	21b	This includes development of a program that provides forthe
+continuous process improvement and evaluation of accurate, reliable, cost-effective triage services in
+both hospital and private practicesettings.
+Quality management is the continuing process whereby TriageLogic ensures quality, maintains
+compliance with applicable laws and regulations. Multidisciplinary committee membership demonstrates
+integration and collaboration throughout the TriageLogic quality management structure. Our members
+work to solve problems, improve systems and fulfill specific strategic initiatives.
+a. Quality Management Program Requirements CORE 19
+1.) The Quality Management Program oversight is done by the Quality Management Committee.
+CORE 19a
+2.) The Quality Management Committee reviews the Quality Management Program at least once
+a year and makes updates to the program if needed. CORE 19c
+3.) Overall responsibility for the Quality Management Program sits with the CEO, and the CEO
+sits on the quality management committee. CORE 19e, 20a
+4.) Oversight for the QMP is shared by the Chair/CEO and COO. CORE	19	e	TheCompliance
+Officer also sits on this committee. The CEO is responsible for overseeing the surveys and
+non-clinical indicators and the Medical director is in charge of the clinical indicators. CORE
+19 e
+5.) The Medical Director is responsible for overseeing any clinical complaints and internal
+nursing quality. CORE	19e		In addition, the Medical Director defines the goals of patient and
+47
+client satisfaction rates. The Medical Director is responsible reviewing and reporting the
+following:
+a.) Review any complaints and identify areas that need improvement
+b.) Review areas that are strengths and promote them to continue
+c.) Receive input from client providers and report to the quality management committee at
+least once a year CORE20e
+d.) Review a summary of the following:
+i) Patient Surveys – compare to previous quarter
+ii) Patient Complaints
+iii) Practice Surveys – compare to previous quarter
+iv) Internal Quality of Nursing – review for ongoing standards – recommend changes or
+improvement to the internal nursing review
+6.) The Quality Management Committee maintains, at all times, at least two quality
+improvement projects relating to error reduction or performance improvement. CORE 22
+See sample form for tracking quality improvement project in the following website:
+http://www.medicalccp.org/Files/Provider/QISPD/SPDAdvanceDirectivesQIP2012Q1Update
+.pdf
+The form at the end of this document establishes the items for the quality improvement
+projects.
+7.) At least one of the two Quality Projects must address consumer safety (such recognizing 911
+symptoms). CORE 24a
+8.) Medical Director has to be involved in all projects of quality improvement that are of
+clinical nature. CORE24b
+b. Quality Management Committee CORE 20
+1.) OBJECTIVES – The role of the Quality Management Committee is to: CORE 19d
+a.) Provide a report of the quality Management program to the CEO and COO (CEO sits on
+the committee, making it an automatic report) CORE 20b
+b.) Approve Quality Improvement Projects and Initiatives CORE 20g
+c.) Provide Guidance to staff on quality management priorities and projects through
+ Compliance Officers report in Management’s meeting with staff. CORE 20f
+d.) Monitor progress in meeting quality improvement goals CORE 20h
+The Quality Management committee tracks trends performance related to patient access to
+service, complains and satisfaction.
+2.) STRUCTURE CORE 17
+CORE	19	c	The permanent members of the Quality Management Committee are: CEO, Medical
+Director, Compliance Officer, and Sales & Accounts Manager CORE	20 e
+48
+The committee is responsible for approving all quality improvement projects, monitoring
+progress and meeting the improvement goals. CORE 20 g & h The committee will also evaluate the
+effectiveness of the Quality Management Program annually in during the summer month of each
+year. CORE	20 i
+• Meets quarterly. Progress reports, recommended changes in businessimplementation,
+rationale behind changes, evaluation of PRN/PhoneRN quality of care and integrity of data
+inputs, evaluates nursing quality CORE 20c
+• Maintains records of committee meetings, by having committee meeting minutes.This
+minute have to be approved by the committee. The CEO may sign the minutes to show that
+they have been approved. CORE 20d
+• Quality improvement projects: decides on quality improvement projects, evaluates progress,
+goals of improvement project, etc.
+• At least one of the two quality improvement projects pages must address consumer safety. In
+addition, Medical Director must be involved in the clinical aspects of the project. CORE 24
+• Multidisciplinary committee membership demonstrates integration and collaboration of the
+quality management structure. . Our members work to solve problems, improve systems, or
+fulfill specific strategic initiatives. CORE	19 e
+• At least once a year, committee members are required to report on the following:
+a.) CEO to report after evaluating PRN incentives to ensure that quality of care is not
+compromised
+b.) CEO reports on other resources and help evaluate whether they are using properly:
+marketing, computer, independent consultants, etc. (these issues come from discussions
+in general management meetings and what we have changed in the past year)
+c.) Medical Director to obtain documents from PRN to ensure compliance with regulations
+and policies and procedures and report to committee. Medical Director also presents
+reports on quality of nurses such as average call back times, etc. These reports can also be
+presented by an outside representative of the software system (Currently Rose Moon)
+d.) Compliance Officer obtains results of the surveying of a sample of clients, from the
+Client Relations Manager.
+e.) Committee to review actual quality of care (review surveys, data analysis, etc. This
+report is presented by the Compliance Officer or the Client Relations Manager)
+NOTE: CORE 20e does not apply
+Committee meetings ensure thefollowing:
+a.) Quality to Patients – ensure that we are tracking patient satisfaction through regular
+surveys. Ensure that when a patient presents a complaint that it is evaluated promptly
+and thoroughly. To have a process in place to track and monitor complaints.
+49
+b.) Quality to Clients (Doctors and Hospitals) – ensure that we are tracking client satisfaction
+through regular surveys. Ensure that when a practice or doctor’s office has questions or
+concerns that they have a dedicated person they can contact to get answers. To have a
+formal process in place to evaluate and answer the clients questions.
+c.) Internal Quality of Nursing – To have a rigorous process in place to internally monitor
+the quality of nursing and care provided by thenurses.
+c. Quality Management Program Resources CORE 18
+The day-to-day operations of the quality management program are managed as follows.
+1.) Quality to Patients – a person dedicated to surveying and compiling survey results from
+patients. A staff member dedicated to receiving any inbound complaints from patients and
+evaluating those. The Medical Director is available to the RN for questions.
+2.) Quality to Clients (doctors and hospitals) – a person dedicated to maintaining contact with
+the practices and receiving ongoing feedback. A person dedicated to surveying clients at
+least every twelve months and compiling the data for the Quality Committee to review.
+Currently, this duty is part of the job description of the Client Relations Manager.
+3.) Internal Quality of Nursing – Three nurse managers are responsible for quality
+management of the nursing program at the clinical level. This is further outlined and
+explained under the clinicalsection.
+4.) Quality of Marketing and Advertisement Materials. Currently this is the responsibility of
+the Web/Product Design & Management Support Staff.
+d. Quality Management Documentation CORE 21
+Minutes will be taken at all Quality Management Committee meetings and approved bythe
+committee. The following information and procedure is required to be part of theQuality
+reporting (minutes) to help evaluate the effectiveness of the quality management programs and
+report relevant information to the staff.
+a) Objectives, goals, and methods for measuring a specific quality issue that is part of the
+quality management program. These measures need to be quantifiable to be used in
+evaluating the base level, the acceptable level of performance, and the goals of the quality
+improvement project. CORE	21a	and	c d
+b) Tracking and trending of the quality measure. This is important to help assessthe
+effectiveness off the quality issue being considered. For issues related to patient care, the
+following need to be part of the quality measures. CORE 21b
+i) patient ability to access the service (such as how fast is the nurse able to return phone
+call)
+ii) patient complaints
+iii) patient satisfaction
+50
+These measures and additional quality measures can be part of the survey asked to patients,
+but also reported by the software if software reporting is available for the measure
+c) Once a quality improvement project takes place, it needs to be evaluated at least once a year
+in order to verify that it is improving and for the committee to decide whether it wants to
+continue the quality improvement project, or start a new project.
+d) Certain quality measures projects such as patient and client surveys and software reports on
+nurse quality data (such as average callback times) are an ongoing part of the quality
+measures in the company. The quality improvement committee is responsible for keeping
+track of these ongoing projects and evaluating them at least once annually to ensure that they
+are reaching the minimum performance. Minimum performance of ongoing quality
+improvement projects are determined by the quality management committee, and can only be
+changed by the committee. CORE	21e	Currently the following mandatory ongoing quality
+measures apply:
+i) Average minimum patient satisfaction rate from survey =3
+ii) Average minimum client satisfaction rate from survey =3
+iii) Less than 3% client or patient complaint a month (see current complaint form for how
+TriageLogic tracks complaints)
+iv) Average nurse call back time of 30 minutes or less (measured every quarter)
+e) The medical director and the client relations manager are responsible for evaluating the
+ongoing minimum standards and reporting them to the quality management Committee.
+CORE 21h
+f) If the average minimum quality is not met in a given period, then the medical director or the
+direct supervisor for the particular quality issue will meet with the managers and nurses
+involved and implement new training and evaluation methods to make sure that they are able
+to improve the quality to meet the minimum requirements. . CORE 21f
+g) The Quality Management Committee provides feedback and guidance (in the form ofsummary
+reports) to staff, delegated staff and leadership on what they expect, what they are monitoring
+and, what they are looking for from nurse managers and practices. This information is
+communicated through weekly meetings as appropriate, with one of the members of the Quality
+Management Committee members reporting and explaining the measures during the meeting.
+CORE	20f	and	CORE	21g
+The weekly meeting schedule is asfollows:
+51
+Marketing
+Review	of	marketing	&	
+sales	materials,	
+Compliance	with	
+marketing	laws,	Quality	
+of	marketing	materials
+Presiding	Officer
+COO
+Members
+Marketing	Manager
+Web	/	Product	Designer
+Chair	and	CEO
+Information	
+Technology
+Regulations,	Quality	of	
+servers	(Speed	&	
+efficiency),	HIPAA	
+Compliance
+Presiding	Officer
+Medical	Director/COO
+Members
+Head	of	IT
+Corporate	Counsel
+Planning Quality Oversight Meetings are weekly unless otherwise specified.
+Sales
+Presiding	Officer
+COO
+Members
+Sales	and	Accounts
+Manager
+PRN	 /	Phone	RN
+Regulatory	updates	&	
+nursing	requirements,	
+Compliance	issues,	
+Patient	complaints,	
+Quality	of	patient	service
+Presiding	Officer
+Medical	Director/COO
+Members
+Client	Relations	Manager
+PRN	Directors
+Nurse	Managers
+Planning	/	Strategy	/	Regulatory
+(Annually)
+Quality	Compliance,	Treasurer’s	Report,	
+Approval	of	Policy	and	Procedures
+Presiding	Officer
+CEO
+Members
+Medical	Director	/	COO
+Compliance	Supervisor
+Quality	(Quarterly)
+Progress	Reports,	recommended	changes	
+in	business	implementation,	rationale	
+behind	changes,	evaluation	of	
+PRN/Phone	RN	quality	of	care	&	integrity	
+of	data	inputs
+Presiding	Officer
+CEO	and/or	Compliance	Supervisor
+Members
+Medical	Director/COO
+Client	Relations	Manager
+Nurse	Manager
+Sales	and	Accounts	Manager
+Management
+Report	on	sales	and	
+accounts,	Report	on	IT	
+and	nursing
+Presiding	Officer
+Chair	/	CEO
+Members
+Medical	Director	/	COO
+Sales	and	Accounts	
+Manager
+Marketing	Manager
+Web/Product	Designer	
+Management	Support
+52
+Key Committees within TriageLogic include: Planning/Strategy/Regulatory, Quality, Nurse
+Manager and IT. Each committee will oversee the management of quality in their own area and their
+duties a delineatedbelow.
+Planning/Strategy/Regulatory – is responsible for the overall operation and administration of Triage
+including employment of personnel who are competent to perform their duties accurately, proficient
+for ensuring compliance with the applicable regulations. This committee is involved in the design,
+implementation, oversight and annual review of the Quality Management Program.
+• Ongoing monitoring of quality improvement and regulatory compliance
+• Interface and coordinate with regulatory agencies
+• Maintenance of an updates regulatory compliance database
+• Coordinate safety investigations and corrective action plans
+• Provide oversight and guidance for Quality improvement and safety activities.
+Quality Committee – is responsible for the implementation, coordination and maintenance of the
+quality improvement program at TriageLogic. This committee oversees the design and
+implementation of o company quality improvement and patient quality activities and ensures
+integration of QI activities other committees/staff (direct or indirect) of TriageLogic. This committee
+will review performance measurements, reports of occurrence, and other indicators identified to
+determine if a quality or patient quality issue requires further review. The Quality Committee will
+also be responsible for reviewing approving the Quality Management Program and indicators on an
+annual basis. CORE	19(c)	If through performance monitoring the QM Committee encounters an
+opportunity for improvement that is urge committee will implement quality improvement activities.
+CORE 17
+The committee facilitates the company QI plans, decides which processes and outcomes should be
+monitored, reviews results of data collection, assesses the effectiveness of actions andmakes
+recommendations forimprovement.
+Subcommittees or teams may be formed when problems or opportunities for new or improved service
+processes are identified.
+Nurse Management Committee – is responsible for ensuring regulatory compliance, technical
+education competency of nursing staff. This committee will assist in the selection of QI
+monitors/indicators. may develop service expectations, review patient safety events, advise staff on
+timely efficient work and address challenges of triage calls. They determine how quality information
+is communicated to staff and encourage staff to report quality and safety/risk concerns. They collect
+data, report measur the Quality Committee and prepare any other summaries required.
+Additionally, they perform the following duties:
+• Ensure that all complaints are identified, investigated, corrected and documented.
+• Solve interdepartmental Quality and Patient care problems.
+• Establishing a system for identifying, correcting and documenting internal and external depart
+problems.
+TRIAGELOGIC, LLC
+53
+• Implement and maintain a comprehensive employee orientation, training and competency program.
+• Ensure policy and procedure manuals are current and followed by staff.
+IT Committee – is responsible for ensuring that data quality control is maintained. Review abnormalities,
+outliers, or other problems with quality control logs, preventive maintenance logs or other reporting formats
+assigned for review. Implement established policies and procedures for the area. Review monthly
+preventive maintenance documentation and bring problems to TriageLogic. Communicate and resolve
+issues that arise. Identify opportunities for improvement and equipment management
+e. Quality Plan
+To summarize, as indicated above, TriageLogic maintains a strong commitment to quality and patient safety
+and care. Employees and delegated staff are encouraged to discuss quality and safety concerns with their
+supervisor/manager. It is the responsibility of all personnel to do the right thing, all the time, for the patient.
+The quality plan should outline a process for identifying current and foreseeable customer needs using
+the 5 Key quality system components.
+• Planning (organization)
+• Teamwork (personnel)
+• Monitoring (assessment)
+• Improvement
+• Review (organization)
+Quality plans generate a process for effective, team-based decision making, sustaining ongoing monitoring
+of operational process and customer satisfaction, identifying process problems, implementing appropriate
+process improvement and practicing ongoing quality reviews. The focus is improved patient careand
+increased quality outcomes. This is accomplished through ongoing programs designed to assess, measure,
+improve and monitor improvement of care provided by TriageLogic. The goal of these plans is to ensure
+processes that systematically measure areas needing improvement, and develop programs appropriate to
+enhance patient health outcomes and patient and client satisfaction.
+The Quality Management Committee aligns the Key indicators with the Quality Improvement Plan for
+TriageLogic. The Key indicators are selected on an annual basis. Quality indicators are observations,
+statistics, or other data that quantify and measure the performance of a process.
+CORE	19 a
+Program Approved by:
+Date:
+Charu G. Raheja, PhD
+Date:
+Ravi K. Raheja, MD
+54
+VI. QUALITY IMPROVEMENT PROJECTS Requirements and Goals Core 23
+• Will have clearly-defined quantifiable measures for quality improvement
+• Measure organization's baseline performance
+• Re-measure performance at least annually as compared to the baseline performance
+• Create specific goals for performance that are an improvement over the baseline performance
+• Establish strategies for performance improvement
+• Articulate projected time frames for the achievement of performance improvement goals
+• Conduct a barrier analysis if the organization does not achieve its performance goals
+Annual Program Evaluation – The framework for establishing next year’s goals is documented here.
+Include evaluation of resourceshere.
+Quality Improvement Project Form CORE 23 & CORE24
+Project Start Date:
+Quantifiable BaselineMeasures:
+Quantifiable Baseline Goals:
+Improvement Strategies & DatesImplemented:
+Periodic Progress Measurements & Documented Discussions:
+Any Changes in Improvement Strategy & Brief Description ofChanges:
+55
+7. Data Integrity and Information Regulation
+This	policy/procedure	appliesto:
+_X_Triage Logic
+X	 PRN
+			Phone RN
+Effective	Date: 11/13/13
+Name	of	Policy/Procedure:Information
+Management
+Most	Recent	RevisionDate:
+Policy	#: 12 Most	Recent Review: 9/27/16
+CORE 13
+Triage logic uses an electronic Triage System.
+Triage Logic Electronic Triage System includes a core software program, nurse triage guidelines (the
+“Protocols”), and online and paper documentation (all of which shall be collectively referred to as the
+"System").
+TriageLogic conducts weekly meetings with Software Provider to ensure proper integrity and
+interoperability of data. Core13c
+The software provider is also responsible for proper storage and destruction of data. Core 13b	All patient
+data is kept in the software server and no patient information is in the nurses’ computers.
+Any issues with the system are reported in the Management meeting during the IT briefing, and any
+systematic problems are addressed by the quality management committee.
+56
+This	policy/procedure	appliesto:
+X	Triage Logic
+X	 	 Phone RN
+X PRN
+Effective	Date:2/2/14
+Name of Policy/Procedure: Disposal of Protected
+Health	Information(PHI)
+Most	Recent	RevisionDated:
+Policy	#: 36 Most	Recent Review: 9/27/16
+VII. PURPOSE
+To implement reasonable safeguards to limit incidental, and avoid prohibited, uses and disclosures
+of PHI, including in connection with the disposal of such information.
+VIII. POLICY
+PHI cannot be disposed of in paper records, electronic media, or other forms of PHI in dumpsters,
+recycling bins, garbage cans, or other trash receptacles generally accessible by the public or other
+unauthorized persons unless the protected health information (PHI) has been rendered essentially
+unreadable, indecipherable, and otherwise cannot be reconstructed prior to it being placed in a
+dumpster.
+IX. SCOPE
+The scope of this policy includes all individuals who are responsible for or who use TriageLogic
+electronic software. Vendors and contractors who have access to TriageLogic information
+resources are also subject to thispolicy.
+X. PROCEDURE
+A. Offsite workforce disposal of protected health information. It is the policy of TriageLogic
+that all protected health information remain in the system software only. Printing of PHI is
+prohibited. If PHI is printed, it must be disposed of immediately after use by shredding in a
+crosscut shredder located in your home. TriageLogic prohibits any protected health
+information from leaving your home. Once the documents have been shredded completely,
+they may be placed in a trash receptacle.
+57
+Sensitive Data Removal Protocol
+Confirmation in writing that data is no longer required, and service termination is accepted.
+Here are the three reasons, and methods by which, data has to be destroyed:
+1. A server is removed
+2. A contractor leaves and we erase any TL data
+3. A computer is retired and cleaned up completely
+CASE: DATA CENTERS - SERVERS
+Information stored within dedicated and virtual servers all need to be removed prior to format.
+Confirm no ability to log in server with SSH test.
+Inform datacenter of server wipe complete ready for removal.
+CASE: USER DESKTOP CLEAN UP (any Operating System)
+- Initiate LogMeIn session with Triage Logic IT.
+- Remove all references to links to triage logic portal
+- Remove any cache and offline storage, and saved login information from all
+browsers, as any browser may have been used.
+- Search for .csv .xls .pdf .txt .doc files remove all Triage Logic related files.
+- Remove LogMeIn program.
+- Empty TRASH
+- Use software shredder on trash.
+- Update LogMeIn in this computer notes of clean up and wipe.
+CASE: DESTRUCTION of user DESKTOP
+-Initiate LogMeIn session with Triage Logic IT.
+-.hard drive erased/reformatted based on individual operating system.
+B. Violation of Policy
+If there is a reasonable basis to believe that the proper procedures as outlined in this
+standard have not been or are not being followed, a report must be given to the
+Compliance Officer. If improperly sanitized electronic media is found, then the media
+should be reported to the appropriate departmental IT support personnel.
+58
+II. Business Continuity / Disaster Recovery
+This	policy/procedure	appliesto:
+_X_Triage Logic
+_X_PRN
+			Phone RN
+Effective	Date:11/13/13
+Name of Policy/Procedure: BusinessContinuity Most	Recent	RevisionDate:
+Policy	#: 15 Most	Recent Review: 9/27/16
+A. Business Continuity Plan CORE14	a,	b,	c ,d
+TriageLogic will only contract with a software vendor that provides the following minimum
+requirements
+B. Support Infrastructure: The Software Vendor must provide the following:
+1. 24/7 emergency support for any software or server related issues 365 days a year with a response
+time of 30 minutes for emergency support issues. The nurse manager on call will be responsible for
+accessing the emergency support system as needed. CORE	14 d
+2. Testing of entire system at least once every 2 years to identify:
+a. Any potential issues that could affect the continuity of business, including but not limited to
+server attacks, virus, etc. CORE	14 C
+b. Assessment of potential vulnerabilities and the integrity of the system, including HIPAA
+compliance testing. CORE 15a
+C. Server Infrastructure
+1. Primary Server: This is defined as the main server that the clinical staff and non-clinical staff access
+via a secure interface to perform their triage duties
+2. Mirror Image Backup server: This is a defined as a second server that is a mirror image of the
+primary server but is located in a geographically separate data center
+3. Vendor provides weekly testing of data replication process and CORE	14c	and CORE	13 a
+D. Data Backup
+1. Live Back Up Process: Any data changed on the primary server is reflected within 5 seconds or less
+on the mirror image backup server
+2. Hourly and daily database dumps of all data: this is in addition to the live replication so the data is
+stored in a third offline database.
+59
+3. Replication logs of every data change can be re-ran to rebuild databases.
+E. Data Center Infrastructure
+TriageLogic only uses SSAE-16 certified data centers with the appropriate security and infrastructure.
+Our vendor’s servers are collocated with Superb Internet (www.superb.net)
+Below is a summary of their certifications. Additional details are available on their website.
+Data Center Staff is ITILCertified
+ITIL advocates that our IT services must be aligned to the needs of the business and underpin the core
+business processes. It provides guidance to our organizations on how to use IT as a tool to facilitate
+business change, transformation andgrowth.
+The ITIL best practices are currently detailed within five core publications which provide a systematic
+and professional approach to the management of IT services, enabling us to deliver appropriate services
+and continually ensure they are meeting business goals and delivering benefits.
+The five core guides map our entire ITIL Service Lifecycle, beginning with the identification of
+customers’ needs and drivers of IT requirements, through to the design and implementation ofthe
+service into operation and finally, on to the monitoring and improvement phase of the service. For more
+information on ITIL, visitwww.itil-officialsite.com
+All 3 Data Centers are SSAE 16Audited
+The SSAE-16 Auditing Standard is an enhancement to the current standard for Reporting on Controls at
+a Service Organization: the SAS70. These updates bring companies up-to-date with new international
+service organization reporting standards: the ISAE 3402. SSAE-16 is now effective as of June 15, 2011.
+All organizations are now required to issue their Service Auditor Reports under the SSAE-16 standards
+in an SOC1 Report.
+The integrity of our data recovery facilities and data hosting solutions The security of our IT assets
+Our compliance with the Sarbanes-Oxley (SOX) Act of 2002 and other data privacy and data security
+compliance regulations Our overall IT compliance.
+SSAE-16 ensures that companies, specializing in service, adhere to a strict set of international standards
+set by the Auditing Standards Board (ASB) of the American Institute of Certified Public Accounting
+(AICPA). For more information on SSAE 16, visit www.ssae-16.com
+The combination of the strict server infrastructure, live data backup and Data Center Infrastructure
+provide maximum uptime and businesscontinuity.
+60
+Below describes the different scenarios that can occur and how the operations are to continue. An email
+sent to 911@triagelogic.com will alert all the on call IT staff as well as the Medical Director and COO
+of an IT emergency.
+1. Primary server is unavailable – Nurse Manager verifies that more than one user is experiencing
+an inability to access the primary server. Nurse Manager sends an email to 911@triagelogic.com
+and directs everyone to the backup site Staff Policy and Procedure for IT Support.
+2. Primary and Backup server is unavailable - Nurse Manager verifies that more than one user is
+experiencing an inability to access the primary server and the backup server. Nurse manager sends
+an email to 911@triagelogic.com and directs everyone to manual triage mode which is described in
+the document Staff Policy and Procedure for Managing Calls Offline.
+F. Staff Policy and Procedure for if server is not available CORE	14A, B
+TriageLogic has determined that the maintenance of the software is crucial to the working of nurse
+triage. At a minimum, TriageLogic has determined that nurses must have access to protocols in order
+to be able to serve patients. As a result, we have the following process in place to ensure access to
+protocols at all times CORE14A
+If the software is not available, the following process must take place: CORE 14B
+1. User Unable to Login: The user can get to the login screen but is unable to access the system. User
+must contact their nurse manager on call to inform them of the problem. The nurse managers have
+access and training to reset the user password after verifying the identity of the user. If the nurse
+manager determines that the user is a valid user and cannot get them to access the system, then the
+nurse manager will contact IT support
+2. Primary Server is unavailable: The user cannot access the login screen for the system. User must
+contact their nurse manager on call to inform them of the problem.
+a. The nurse manager will attempt to log in to the system and verify if they can access the system
+b. If the nurse manager is able to access and login to the system, then they will verify the server
+website with the user and reset their password to see if they are able to get access. If the user
+still cannot access the system, the nurse manager will contact IT support to report the problem.
+c. If the nurse manager verifies that they are unable to access the login screen as well, then the
+nurse manager will access emergency support and direct the nurses to the back-up site.
+3. Primary and Backup Server is unavailable: In the rare circumstance that both the primary and
+backup server is not available, the triage system will go into emergency mode which includes the
+following steps:
+a. Send an email out to the nursing staff to inform them that they must handle callsmanually
+b. Contact the other nurse managers to inform them of the situation and enlist their help
+c. Contact the non-clinical staff and give them a fax number to start faxing the calls as they come
+in, instead of entering them directly into the triage system.
+61
+III. Information Confidentiality and Security CORE 15
+This	policy/procedure	appliesto:
+_X_Triage Logic
+_X_PRN
+_X_Phone RN
+EffectiveDate:11/13/13
+Name	of	Policy/Procedure:INFORMATION
+SECURITY POLICY
+Most	Recent	RevisionDate:
+Policy	#: 14 Most	Recent Review: 9/27/16
+A. TriageLogic Information Security Policy
+TriageLogic has the following in place to prevent and detect security breaches: Core 15c
+1. Software Requirements
+TriageLogic will only contact with a software vendor if their software platform has the following
+minimum specifications as defined in BUSINESS CONTINUITY PLAN. In addition the software
+must support the following minimum requirements to allow for implementation ofTriageLogic
+Information Security Policy.
+a. Role Based access to all Non Clinical, Clinical and PHI information in the system
+b. Role based access for administrative, edit and view privileges.
+c. Unique user name and password for each and every user
+d. Password requirements as per current security standards
+e. Logging of any view or edit actions in the system
+f. Ability to prevent alteration of a completed patient chart after it has been finalized.
+Triage logic also meets with vendor weekly to assess potential risks, integrity and vulnerabilities to the
+confidentiality of the information system. Any issues that management identifies are addressed by
+vendor immediately. For example, upon TriageLogic request vendor created HIPAA compliance
+texting to allow nurses to communicate with physicians confidentially.
+For example, the following issues are discussed over time:
+Security violation issues, vulnerability scanning plans, results from most recent vulnerability scan (scan
+done every 2 years), network penetration testing policy and procedure, results from most recent
+network penetration test (network penetration test done every 2 years), configuration standards to
+62
+include patch management for systems which store, transmit, or access PII, encryption or equivalent
+measures implemented on systems that store, transmit, or access PII.
+CORE 15a
+2. Prevention, detection, containment, and correction of security violation CORE	15c
+a) Requirement for hiring and human access
+Work Environment
+As part of their orientation each clinical nurse user who works remotely must verify that they meet
+the following requirements
+1.) A dedicated room where they can work alone while taking calls or accessing the system.
+2.) A quiet environment without any background noise that would be audible to a caller.
+3.) High speed internet access (DSL, CABLE or Satellite).
+b) System Access
+All users have role-based access which is built into the software platform used by TriageLogic.
+All user access can be remotely controlled and modified in real time by the authorized system
+administrator. Each user must have the following minimum information in their system profile.
+1.) First Name, Last Name, Date Of Birth, Home Zip Code, Home or cell phone number
+c) Nurse Manager Access: TriageLogic’s IT customer service representative can create a nurse
+manager user with written permission from the Medical Director or CEO.
+d) Nurse Users Access (Clinical Users): Nurse Managers are permitted to create a nurse user
+after the nurse has completed their orientation checklist.
+e) Non Clinical Staff Access: Each non clinical staff is given a unique user name and password
+with limited access to enter calls into the system. The Non Clinical Staff cannot view any
+patient encounters or data. The nurse triage client manager creates access for the non-clinical
+staff.
+f) Client Access: Each practice manager or system administrator can be granted access to their
+patient encounters and call schedules. The client is responsible for designating an authorized
+user to access the system and any changes in writing. The nurse triage client manager creates
+access for each practice after they have signed an agreement for services and makes any
+changes to the user access or creates new users. New practices are discussed at the weekly
+meeting and access is approved by the nurse managers.
+g) Resetting Passwords: The system allows for each individual to reset their own password by
+asking them to provide information within their system profile.
+h) Clinical User: If the clinical user is unable to access the system, then they must contact the
+nurse manager as per the Policy and Procedure for TriageLogic Support.
+i) Non Clinical User or Client: If a Non Clinical or Client user is unable to access the system,
+then they must contact their manager or supervisor who will then contact the client service
+manager to assist with access.
+63
+B. Policy on Emails and Other Forms of Communication
+Email is not secure. TriageLogic requires that email cannot contain PHI anywhere in the heading or
+body of the message. To view any PHI, the user has to log into the system with a user name and
+password. When communicating about patients via email, we refer to ticket numbers or note numbers
+without mentioning any PHI. Reports and recordings are sent as links for which the user has to login to
+view the PHI. None of the following items can be included in any unsecure communication.
+1. Names
+2. All geographical identifiers smaller than a state, except for the initial three digits of a zip code
+if, according to the current publicly available data from the Bureau of the Census: the
+geographic unit formed by combining all zip codes with the same three initial digits contains
+more than 20,000 people; and the initial three digits of a zip code for all such geographic units
+containing 20,000 or fewer people is changed to 000
+3. Dates (other than year) directly related to an individual
+4. Phone numbers
+5. Fax numbers
+6. Email addresses
+7. Social Security numbers
+8. Medical record numbers
+9. Health insurance beneficiary numbers
+10. Account numbers
+11. Certificate/license numbers
+12. Vehicle identifiers and serial numbers, including license plate numbers;
+13. Device identifiers and serial numbers;
+14. Web Uniform Resource Locators (URLs)
+15. Internet Protocol (IP) address numbers
+16. Biometric identifiers, including finger, retinal and voice prints
+17. Full face photographic images and any comparable images
+18. Any other unique identifying number, characteristic, or code except the unique code assigned
+by the investigator to code the data
+C. Data Breaches CORE	15 C
+1. Policy on Discovery, Reporting & Notification of Information Breaches
+a. Regularly Review, update and integrate security controls and reporting
+b. Medical director to Report any possible incident to the incident report
+64
+• Provide covered entity contact information
+• Identify if breach occurred at or by a Business Associate
+• Date of breach, Date of Discovery
+• Approx. # of impacted individuals
+• Type of Breach: Theft, Loss, Improper disposal, Unauthorized access, Hacking/IT
+incident
+• Type of Sensitive Information Involved in Breach: TriageLogic has very little patient
+information: no social security, no addresses, and no fully identifiable information. Only
+patient name, reason for calling, and nurse issue.
+2. Procedure for information breach notification
+Upon identification and reporting of a breach, CEO is briefed and an action plan is developed to
+inform the affected parties if necessary. Informing it done by contacting the patient’s physicians
+and informing them about the breach and potential issues with the data. TriageLogic also informs
+insurance carrier for assistance in resolving data breach issue if necessary.
+3. Conduct training for all members of the workforce
+All employees are trained in HIPAA policy and receive explanation and information about want
+constitutes a data breach, and how to protect data against potential security breach. For the no
+identifiable patient data is kept in employee computers.
+D. Policy on Printing Documents with PHI CORE 13
+The TriageLogic platform is a web based system. All data remains on the secure servers and requires
+appropriate role based access with a user name and password to access the data.
+All users of the system are NEVER required to print any information based on standard workflows.
+Users are NOT PERMITTED to print any information.
+If the user needs to make notes about a patient, then they must use a note number as a reference and omit
+any PHI on the written notes.
+In the unusual event that patient documents need to be printed, the Director of nursing/Nurse manager is
+the only one that is permitted to print information from the system with PHI. Any management staff who
+are permitted to print PHI have a cross-cut shredder at their desk to immediately shred the information
+after use.
+E. Policy on removing PHI or other data from a computer CORE 13
+The TriageLogic platform is a web-based system. All data remains on the secure servers and requires
+appropriate role based access with a user name and password to access the data.
+All users of the system are NEVER required to save any information based on standard workflows.
+Users are NOT PERMITTED to save any patient data to their local computer.
+65
+In the event that a computer needs to be replaced or a user leaves the company, the IT relations manager
+will coordinate a WebEx with a member of the IT team. The IT representative will access the user’s
+computer and remove all relevant data based on the latest standards of IT security.
+Additionalquestions?
+Please refer to HIPAA-HITECH documents 45CFR subparts 160 and 164.
+F. Protected Health Information Policy for Employees CORE 16
+This	policy/procedure	appliesto:
+_X_Triage Logic
+_X_PRN
+_X_Phone RN
+EffectiveDate:12/2012,	8/6/2015
+Name of Policy/Procedure: HIPAACOMPLIANCE
+POLICY,	Employee	Review	Process	
+Most	Recent	RevisionDate:12/2012,	8/6/2015
+Policy	#: 5 Most	RecentReview:9/27/16
+All Employees go through a HIPAA policy training to understand the implications and necessary stepsin
+order to maintain patient confidentiality. In addition, all employees working with patient data with access to
+patient information have to sign our HIPAA compliance policy. Contractors need to have a similar policy in
+place in order to inform their nurses and staff about the policies. In addition, owners of delegated companies,
+committee members, and board members are required to sign a BAA which includes our HIPAA policy.
+Examples of topics discussed during employee training are as follows: Oral, written or electronic
+communication (Email cannot contain PHI). It is the responsibility of each employee to preserve
+confidentiality and PHI.
+66
+This	TRIAGE	HIPAA	COMPLIANCE	POLICY	of	Triage	Logic	Management	&	Consulting,	LLC	
+(“Triage”)	shall	apply	to	all	employees	of	Triage,	agents	of	Triage	and	employees	of	
+Triage	subcontractors	(collectively	the	“Service	Providers”).	All	agents	with	access	to	
+patient	data	must	sign	this	document.
+PURPOSE	OF	THIS	POLICY.	Service	Providers	are	providing	various	health	care services	
+for	Triage	(the	“Services”)	which	may	involve	the	observation	or	use	of	patients/patient	
+records	of	hospitals,	clinics	or	other	health	care	organizations	or	entities	that	have	
+entered	into	services	agreements	with	Triage	(these	various	health	care	groups	shall	be	
+collectively	referred	to	as	the	“Covered	Entities”).	In	the	course	of	providing	such	
+Services,	Service	Providers	from	time	to	time	have	access	to	or	possession	of	Covered	
+Entity’s	patient	protected	health	information	or	“PHI,”	as	such	term	is	hereinafter	
+defined.	This	Policy	shall	set	forth	the	terms	and	conditions	pursuant	to	which	Service	
+Providers	shall	use,	secure	and	keep	in	confidence	such	PHI.
+1.	Definitions.	For	the	purposes	of	this	Policy,	the	following	terms	shall	have	the	
+following	meanings:
+(a)	Electronic	Protected	Health	Information	or	“	E	P	H	I	“.	A	subset	of	PHI,	
+consisting	of	any	PHI	that	is	transmitted	by	electronic	media	or	maintained	
+in	electronic	media.
+(b)	Individual. The	person	who	is	the	subject	of	the	PHI,	and	has	the	same	
+meaning	as	the	term	“individual”	as	defined	by	the	HIPAA	Regulations.
+(c)	HIPAA	Regulations.	Those	regulations	codified	at	Title	45	of	the	Code	of	
+Federal	Regulations	(C.F.R.)	and	relating	to	privacy	and	security	of	PHI.
+(d)	Protected	Health	Information	or	“	P	H	I	” .	Any	information	concerning	an	
+Individual,	whether	oral	or	recorded	in	any	form	or	medium:	(1)	that	
+relates	to	the	past,	present	or	future	physical	or	mental	condition	of	such	
+Individual;	the	provision	of	health	care	to	such	Individual;	or	the	past,	
+present	or	future	payment	for	the	provision	of	health	care	to	such	
+Individual;	and	(2)	that	identifies	such	Individual	with	respect	to	which	
+there	is	a	reasonable	basis	to	believe	the	information	can	be	used	to	
+identify	such	Individual,	and	shall	have	the	meaning	given	to	such	term	
+under	the	HIPAA	Regulations.
+2.	Disclosures	and	Use	of	PHI.	Subject	to	this	Policy,	Service	Providers	shall	not	the	
+use	the	PHI	except	as	necessary	to	provide	the	Services.	Service	Providers	hereby	
+agrees	that	the	PHI	provided	or	made	available	to	it	shall	not	be	further	used	or	
+disclosed	other	than	as	permitted	or	required	by	this	Policy.	Without	limiting	the	
+foregoing,	Service	Providers	agrees:	(i)	not	to	share	PHI	with	anyone	not	directly	
+involved	in	the	patient’s	care	or	treatment;		(ii)	not	to	discuss	PHI	in	areas	where	it	
+67
+may	be	overheard;	(iii)	not	to	access	any	PHI	without	specific	direction	by	Triage;	(iv)	
+not	to	attempt	access	to	PHI	for	personal	reasons;	(v)	to	inform	Triage	of	any	
+personal	relationships	which	Service	Providers	may	have	with	a	patient	or	patient’s	
+family	whose	PHI	Service	Providers	may	access;	(vi)	if	allowed	access	to	EPHI	by	
+Triage	or	the	Covered	Entity,	to	clear	computer	screens	of	PHI	before	leaving	the	
+screen;	(vii)	to	return	any	PHI	provided	on	paper	to	the	professional	staff	member	or	
+employee	who	provided	it	or	to	dispose	of	it	within	the	facility	using	a	shred-it	box	
+or	as	otherwise	directed	by	the	person	who	provided	it;	(viii)	not	to	store	or	transmit	
+any	PHI	using	a	portable	device or	any	other	electronic	means;	(ix)		not	to	remove	
+PHI	in	any	form	from	the	Covered	Entity’s	facility;	and	(x)	not	to	make	any
+photographs, videos, voice recordings or any other reproduction of anyPHI.
+3.	Service	Providers	Obligations.
+(a)	Right	of	Access	to	PHI. Service	Providers	and	its	representatives	and	
+employees	shall	forward	all	Individual	requests	for	access	to	PHI	to	Triage	
+within	one	(1)	business	days	of	receipt. Access	will	only	be	granted	on	a	
+need	to	know	basis	and	as	necessary	for	conducting	the	business	of	
+TriageLogic. CORE 16 b,	c
+(b)	Amendment	of	PHI.	Service	Providers	shall	forward	all	requests	for	
+amendments	to	an	Individual’s	PHI	to	Triage	within	one	(1)	business	days	of	
+receipt.
+(c)	Accounting	of	Disclosures.	Service	Providers	shall	forward	all	requests	for	
+an	accounting	of	disclosures	of	PHI	to	Triage	within	one	(1)	business	days	of	
+receipt.
+(d)	Reports	of	Improper	Use	or	Disclosure	and	Cooperation. Service	Providers	
+shall	report	in	writing	to	Triage	within	one	(1)	business	day of	discovery	any	
+use	or	disclosure	of	PHI	not	provided	for	or	allowed	by	this	Policy.	Service	
+Providers	shall	cooperate	with	Triage	and	the	Covered	Entity	in	any	
+review/investigation	of	an	actual	or	potential	breach	of	HIPAA	privacy	or	
+security	regulations.
+4.	Termination	and Breach.
+(a)	Immediate	Termination.	In	regard	to	Triage	employees,	Triage	reserves	the	
+rights	to	discipline	any	employee	of	Triage	that	has	breached	this	Policy,	
+including,	the	right	to	terminate	such	employee’s	employment	with	Triage.
+In	regard	to	Triage	subcontractors	and	agents,	Triage	reserves	the	right	to	
+terminate	their	agreement	with	such	subcontractors	and	agents	if	they	
+breach	this	Policy,	and	to	seek	such	relief	allowed	by	the	contract	with	such	
+subcontractor	or	agent	and	applicable	law.
+(b)	Injunctive	Relief. Notwithstanding	any	rights	or	remedies	provided	for	in	
+this	Policy,	Triage	shall	be	entitled	to	obtain	temporary	and	permanent	
+injunctive	relief	from	any	court	of	competent	jurisdiction	to	prevent	or	stop	
+the	unauthorized use	or	disclosure	of	PHI	by	Service	Providers.
+(c)	Return	or	Destruction	of	PHI.	Upon	the	termination	or	expiration	of	Service	
+Providers’	employment,	agency	or	subcontract	relationship	with	Triage,	
+68
+Service	Providers	hereby	agrees	to	return	to	Triage	all	PHI	received	from,	or	
+created	or	received	by	Service	Providers,	from	or	on	behalf	of	Covered	
+Entity.
+5.	General	Provisions
+(a)	State	Law	Preemption.		Certain	provisions	of	state	law	relating	to	privacy	of	
+PHI	may	not	be	preempted	by,	and	may	supersede,	the	HIPAA	Regulations.	
+With	respect	to	such	provisions	of	state	law	not	preempted	by	the	HIPAA	
+Regulations,	Service	Providers	shall	maintain	full	and	complete	compliance	
+with	all	state	privacy	requirements.
+(b)	Property	Rights.	All	PHI	shall	be	and	remain	the	property	of	Triage	or	the	
+Covered	Entity.	Service	Providers	agrees	that	it	shall	not	acquire	any	title	or	
+rights	to	any	PHI.
+(c)	Changes.	This	Policy	may	be	unilaterally	modified	by	Triage	in	response	to	
+new	statutory	or	regulatory	requirements	related	to	HIPAA,	the	HIPAA	
+Regulations	or	other	applicable	state	or	federal	law	relating	to	security	and	
+privacy	of	PHI.	Any	ambiguity	in	the	language	contained	in	this	Policy	shall	be	
+interpreted	consistent	with	HIPAA	Regulations
+Agreed	to	and	Acknowledged	by:
+By:________________________________________________
+																									(Signature)
+Name:____________________________________________
+																									(Print	or	Type)
+Company:________________________________________
+Date:_____________________________________________
+69
+8. General Staff Employment CORE 25,26,27,28,29,30
+Equal EmploymentOpportunity
+TriageLogic commits to providing a work environment that is free of discrimination. It is the policy of
+TriageLogic that all applicants and employees are entitled to equal employment opportunity regardless of
+race, color, religion or creed, gender (including pregnancy or related medical conditions), national origin,
+age, disability, marital status, sexual orientation, veteran status or other protected characteristics as required
+by local, state and federal law.
+In compliance with the provisions of all applicable state and federal civil rights laws, every effort will be
+made to employ the most qualified individuals without regard to the above factors. Additionally, it is and
+shall continue to be the Company’s policy to provide promotion and advancement opportunities in a nondiscriminatory fashion. TriageLogic is an equal opportunity employer. TriageLogic does not and will not
+permit any of its employees to engage in discriminatory practices involving their co- workers or individuals
+that they come in contact with as representatives of the Company. If an employee has an equal employment
+opportunity related question, problem, or complaint, they must first discuss it with their immediate
+manager/supervisor. If the employee is uncomfortable discussing the matter with their manager/supervisor,
+or if the matter involves their manager/supervisor, they may contact Human Resources and then theCEO.
+Employment-at-Will
+While the Company strivesto make the employmentrelationship a mutually satisfying one,the Company can
+make no assurances, either express orimplied, concerning the duration of employment.The employee and the
+Company have an employment-at-will relationship. The employment relationship is for an unspecified time
+period. Either the employee or the Company may terminate employment at any time, with or without reason
+or notice. In addition, it should be noted that no one has the right to alter the employment-at-will relationship
+other than the CEO of TriageLogic. Any such agreements by the CEO must be in writing and signed by the
+CEO or COO. Therefore, no statement or promise by a supervisor, manager, or department head may be
+interpreted as a change in policy, nor will it constitute an agreement made with an employee unlessthe
+agreement is with a signed contract.
+Anti-HarassmentPolicy
+TriageLogic is committed to providing a work environment that isfree from all forms of discrimination
+and conductwhich can be considered harassing, coercive, or disruptive, including allforms of harassment
+based on protected factors(Race,Color,Sex,Religion,NationalOrigin,Citizenship,Age,Marital Status,
+Disability or Sexual Orientation). In fact, the Company has established a “zero tolerance” policy
+regarding any form of harassment; however, management reservesthe rightto determine the appropriate
+discipline depending upon the severity of the offense. Harassment is a form of misconduct that
+underminesthe integrity ofthe employment relationship. No employee should be subject to unsolicited
+70
+and unwelcome conduct, either verbal or physical. Each person in the organization is responsible for fostering
+mutualrespect,for being familiar with this policy, and forrefraining from conduct that violates this policy.
+ManagementResponsibility
+Harassment, whether committed by supervisory or non-supervisory personnel, is specifically prohibited as
+unlawful and against stated Company policy. In addition, the Company’s management is responsible for
+taking action against acts of harassment and investigating all complaints of harassment. Violation of this
+policy by an employee will subject said employee to disciplinary action up toand including termination. If
+an employee believes that he/she has been subjected to harassment, they must use the complaint procedure
+set forth under this harassment policy.
+Manager/Supervisor Responsibility
+Every manager/supervisor is responsible for providing a positive productive work environment free from
+harassment. Managers and supervisors are also responsible for doing their best to protect the Company
+from liability by ensuring that all employees are aware of the Company harassment policy, the Company
+complaint procedure and the penalties associated with violation of the policy.
+Employee Responsibility/ComplaintProcedure
+Each employee is responsible for ensuring that his or her personal conduct and comments in the
+workplace support a professional environment that is free of unwelcome behavior that could be
+perceived as harassment or as demeaning, offensive or threatening with regard to gender and/or
+personalself-respect.
+Americans with Disabilities Act(ADA)
+The ADA covers employers with 15 ormore employees and generally prohibits discrimination against
+“qualified individuals with disabilities.” A qualified individual with a disability is an applicant or employee
+who can perform the essential functions of the job in question with or without reasonable accommodation.
+Disability isdefined as:
+• a physical or mental impairment that substantially limits one or more major life activities;
+• a record of such an impairment; or
+• being regarded as having such impairment.
+TriageLogic willreasonably accommodate qualified applicants and employees with disabilities unless making
+the accommodation imposes an undue hardship on the employer’s business. TriageLogic will reasonably
+accommodate known disabilities. Therefore, employees needing accommodation should speakdirectly with
+their manager/supervisor. TheCompany expectsthe reasonable accommodation processto be a mutual
+process by which the Company and employee search for a mutually acceptable reasonable accommodation.
+71
+TriageLogic will not discriminate against any qualified employees or applicants because they are related
+to a person with a disability.
+Initial Employment Status
+TriageLogic is committed to the premise that the organization and the employee benefit through longterm relationships. The Company’s future success and stability requires it to hire, train, and develop
+employees who will, in turn through their experience, knowledge, and commitment, maintain longterm relationships with patients. No interview process can be extensive enough to ensure
+compatibility between the individual and the organization necessary for a long-term relationship to
+develop.
+In order for employees to have time to assess TriageLogic, the job, and its requirements, and for the
+Company to have the opportunity to assess each employee, the first 90 days of employment are
+considered a mutual tryout period. It is during this 90-day introductory period that the employee and
+the Company mutually evaluate job requirements, performance, company policies and attitudes. This
+is a period when the decision is made as to how well the match has been made relative to the
+employee's needs as well as the Company's needs. Satisfactory completion of the introductory period
+does not alter the employment-at-will relationship. The evaluation period will be ongoing and will
+continue throughout the employment relationship.
+Predictive Index (PI) Survey
+In an effort to ensure the best fit for open positions as well as to find the most effective method for
+managing current employees, the PI Survey has become an important resource to TriageLogic. All
+applicants and independent contractors wishing to work with TriageLogic will be required to
+complete the PI survey.
+Drug Policy
+Prescription	and	over-the-counter	drugs	are	not	prohibited	when	taken	in	standard	dosage	and/or	
+according	to	a	physician’s	prescription.	Any	employee	taking	prescribed	or	over-the-counter	medications	
+will	be	responsible	for	consulting	the	prescribing	physician	and/or	pharmacist	to	ascertain	whether	the	
+medication	may	interfere	with	safe	performance	of	his/her	job.	If	the	use	of	a	medication	could	
+compromise	the	safety	of	the	employee,	fellow	employees	or	the	public,	it	is	the	employee’s	responsibility	
+to	use	appropriate	personnel	procedures	(e.g.,	call	in	sick,	use	leave,	request	change	of	duty,	notify	
+supervisor,	notify	company	doctor)	to	avoid	unsafe	workplace	practices.
+Salaries and Rates of Pay
+Salaries and rates of pay are determined on an individual basis and are considered strictly
+confidential. Salary or rate of pay should only be discussed as necessary, with the appropriate
+supervisor or human resources representative. Employees are not allowed to engage in discussions
+regarding their own salary or rate of pay with other employees. Nor are they allowed to engage in
+discussions regarding the salary or rate of pay of another employee. Even making inferences as to
+another’s salary or rate of pay will be considered a violation of this policy.
+72
+EmployeeClassifications
+For purposes of salary administration, eligibility for overtime payments, and employee benefits,
+TriageLogic classifies its employees asfollows:
+Regular Full -Time Employee - A regular full-time employee is an individual whose employment is
+for no definite term and who is scheduled to work a minimum of 35 hours per week on a regular basis.
+Regular Part -Time Employee - A regular part-time employee is an individual whose employment is
+for no definite term and who is scheduled to work less than 30 hours on a regular basis. Regular parttime employees are not eligible for Paid Time Off (PTO) and may or may not be eligible for other
+benefits based on individual plan requirements.
+PRN Employee (“as needed”) – A PRN employee is an individual whose employment is for no
+definite term and who is periodically scheduled to work “as needed”. PRN employees may or may not
+be eligible for benefits based on individual plan requirements.
+Temporary Employee - A temporary employee’s work assignment is expected to be of limited duration
+(usually less than six months) to temporarily supplement the workforce or help complete a specific
+project. Temporary employees are not eligible for benefits.
+Exempt Employees – Employees who are not required to be paid overtime, in accordance with
+applicable federal and state wage and hour laws, for work performed beyond forty hours in a work
+week. Executives, managers, Healthcare Providers, professional employees, and certain employees in
+administrative positions areexempt.
+Employees vs. Contractors - Contractors may be hired to perform certain tasks for the company. These
+may include for example, editing documents and marketing material, providing medical information, and
+taking patient phone calls Contractors may be hired to perform certain tasks for the company. These may
+include for example, editing documents and marketing material, providing medical information, and
+taking patient phone calls Contractors are allowed to work at their own location of choice, as long as the
+choice does not conflict with the law such as HIPAA and HITECH. Contractors are also allowed to
+determine their own hours. Contractors will be given a list of Company needs and the Contractor can
+chose whether or not they want to work on the specific need. Contractors will not receive designated
+usage of company property such as desks, and computers, although they may come to the one of our
+Company locations and borrow Company property if that is their preference from time to time. In
+addition, contractors may engage in work outside of TriageLogic. Each state and the IRS have different
+rules regarding who is a contractor and who is an employee. Changes in such rules may require the
+Company to reclassify an employee’s status as an employee or contractor. While employees may have
+their schedule set by the company and will not be allowed to work for a competing company while
+employed by Triagelogic. The Company reserves the right to change an employee’s status in response
+to business needs. Employees may request a change in status to accommodate personal circumstances
+by discussing the request with their manager/supervisor or Human Resources Manager. In all cases,
+the decision to change the status of any position (if at all) will be based on the department’s workload,
+73
+available resources and an employee’s performance record.
+Employee Credit Cards
+Company employee credit cards are property of the company and must be immediately surrendered to an
+officer of the company upon voluntary or involuntary termination of the employment or contract.
+Company employee credit cards are strictly for business expenses and not for the employee’s personal use.
+Company employee credit cards cannot be used for food unless approved in advance, at which point a
+limit will be given for the specific occasion. Otherwise, food expenses should be paid by the employee,
+personally, then submitted for reimbursement, with receipts. All employee credit card expense over $25
+requires written approval, in advance, from either of the business owners. Email will be acceptable to
+request and grant approval. Some company credit cards are specific to an entity of the TriageLogic group
+and should be used only for the expenses of the specific entity, unless approved by a company officer. If
+the wrong card is used accidently, a company officer must be notified. Each cardholder is required to sign
+an attestation of the policy.
+Timekeeping
+Accurately recording time worked is the responsibility of every employee. Federal and state laws
+require the Company to keep an accurate record of time worked. Time worked is all the time actually
+spent on the job performing assignedduties.
+Altering, falsifying, tampering with timekeeping data, or recording time using another employee’s
+Time and Attendance data may result in disciplinary action, up to and including termination of
+employment. It is the employee’s responsibility to review their time in the time & attendance program
+and alert their manager with discrepancies.
+Exempt employees are not required to record their time; however, they are expected to be
+professionally responsible and work theirregularly scheduled hours plus any other hoursrequired to
+satisfactorily complete their assigned responsibilities.
+Ethical Standards
+We expect all staff to act in an ethical manner that is self-guided and self-directed. Staff should not
+access websites that are questionable during their working hours. Any questions on websites or
+appropriate activities during working hours should be addressed with management. CORE 28
+Licensure, Registration and Certification
+Certain positions may require that an employee have or be able to obtain proper licensure,
+certification or registration. If these credentials are not achieved, or if they are withdrawn or
+suspended by an accrediting body, normal circumstances will require that the employee’s
+employment be terminated unless a change in employment status or job assignment can be made.
+In the case of certain licensed professionals, TriageLogic is required to report instances that
+could be cause for discipline to the professional licensing board.
+Job Descriptions CORE	25	&26
+74
+A job description is available for all TriageLogic employees that reflects the scope of their
+responsibilities and includes any required education, training and licensure. The job
+description is provided to the employee upon hire and reviewed and or revised annually at
+evaluation time to ensure the job description accurately reflects the job being performed.
+Staff Training Core 27 & 28TriageLogic provides staff with initial and ongoing training. A copy of
+all	training	provided	will	stay	on	file	and	in	shared	sugar	sync	folders.	Any	changes	in	rules or
+information	are	announced	at	the	various	company	meetings	as	appropriate.	A	current	policy and
+procedure manual
+is available to employees at all times through sugar sync. CORE 28 Upon initial employment staff
+will be trained on at least the following: Specific training directly related to their responsibilities,
+URAC version 5.0 standards, Clinical Support Tools (as applicable), HIPAA, Confidentiality,
+Conflict of Interest. Ongoing training will be provided as necessary as policies and/or procedures
+change, State/Regulatory updates are received. Should state or federal requirements conflict with
+URAC 5.0 standards, an employee would follow the more stringent requirement. Additional
+questions should be addressed with the CEO or legal counsel. CORE 28 c
+CORE 27 f Continuing education programs/additional training and tools can be requested on a one by
+one basis. Requests need to be sent to your direct supervisor. When continuing education has been
+approved by your supervisor, a copy of the training must be sent to your supervisor for inclusion in
+your personnel file.
+Staff Assessment Program CORE 26 & CORE 27 & 29 CORE 30
+All TriageLogic staff will receive an annual performance review at least once a year during an agreed
+month or in July (as a default) from their supervisor. Each employee may provide at this time an
+updated resume/CV for the personnel file. The current job description will be reviewed withthe
+employee and updated/revised as necessary at this time. Staff members are asked to bring relevant
+documentation of their work as well as ongoing training documents to the performance evaluation.
+The review process will also include self-appraisal and anonymous appraisals from all other staff
+members that have had significant contact with the employee. The appraisal form will use a rating
+system of one through four and the combined ratings from all appraisals will be used to obtain an
+average rating for each category. Staff comments will be allowed on each appraisal and kept
+anonymous as well.
+Core 29b Staff licensure/certification will be verified at this time and signatures will be obtained
+annually on the following documents: Conflict of Interest, Confidentiality, HIPAA and any other
+documents here that may require signature. Core 16 f
+Information Confidentiality
+How TriageLogic is perceived by its business associates, the media, legislators, regulatory agencies,
+special interest groups, and the general public is a direct result of the external communications
+activities carried out by our management and employees. These external relations have a significant
+impact on our business. In order to present the best image of TriageLogic, it is important that the
+messages we communicate are consistent with Company philosophy, policies and procedures.
+75
+Serious problems could be created for TriageLogic by unauthorized disclosure ofinternal information
+about the Company or its patients. Company personnel should not discuss internal matters or
+developments with anyone outside ofthe Company, except asrequired in the performance ofregularjob
+duties.
+Employees should contact their manager/supervisor if they are unsure as to what information is
+confidential. Outside inquiriesregarding TriageLogic should be referred to the CEO. TheCEO serves as
+an information channelfor news media and for any person or organization outside the Company. He/she
+isresponsible for approval of pressreleases,responding to media inquiries, and coordinating interviews
+with themedia.
+TriageLogic has a PatientConfidentiality Acknowledgement(Thisis part ofthe HIPAA form)form that is
+presented to each newly hired employee. All employees are required to read this Acknowledgement and
+agree to its contents. Questionsrelating to confidentiality or possible violations ofits provisionsshould be
+referred to the Human Resources Manager orCEO.
+During the course of employment, employees will have accessto confidential information. Confidential
+information may include, but is not limited to, compensation information, patient lists and information,
+financialinformation,marketing strategies,and otherrelated confidentialinformation. Thisinformation
+is critical to the success ofthe Company and must not be divulged. Employees must not discuss
+confidential matters or release confidentialinformation to any outside party.
+Additionally, an employee’ssalary is confidential and isto be held in strict confidence by the employee
+and TriageLogic. Individual employee’s salary/wages are not public information. Breach of
+confidentiality regarding this information is not appropriate.
+Employees who improperly utilize or disclose Company or patient confidential information may be
+subject to disciplinary action, up to and including termination. All employees with accessto patient data
+are also required to sign the HIPAA Policy document(see below)
+TriageLogic Information Security Policy
+What is HIPAA, and what information is protected by it?
+HIPAA, short for the United States Health Insurance Portability and Accountability Act, is a set of
+standards introduced by Congress in 1996 that aim to protect the privacy of patient information in the
+healthcare industry by regulating how providers handle patient data while conducting business, as
+well as ensuring the continuity of individuals' healthcare coverage.
+There are two sections to the standard: HIPAA Title I, which focuses on protecting citizens'
+healthcare coverage if they are fired or laid off, and HIPAA Title II, which is focused more on
+patients' rights and how to properly transmit, share and store theirinformation.
+75
+HIPAA created a set of universal standards for exchanging and securing personal data via electronic
+data interchange (EDI), the goal being to protect all data that is personally identifiable to a specific
+person, regardless if it is communicated orally, electronically or in writing.
+The HIPAA privacy rule requires all health care providers, or any other organization that processes
+medical records, inform patients of their privacy rights, educate and train staff on how medical data
+should be properly handled, and implement and practice the required privacy and security policies in
+order to ensure that electronic health information of patients remain secure.
+Breaking down HIPAA security rules and compliance guidelines
+HIPAA's standards require that all health care industries apply and enforce certain protections. The
+implementation process will be different for every organization depending on its size, budget, risks
+and infrastructure complexity. But regardless of each organization's different needs in terms of
+HIPAA implementation, the general HIPAA requirements stay the same.
+• Organizations must have an administrative authority in charge of managing and enforcing
+HIPAA compliance rules, regulations and efforts. There should be a clear set of guidelines in
+place regulating who is and isn't permitted to access patient information. All access to sensitive
+data and systems should be monitored.
+• Documentation should be provided to patients informing them of their rights.
+• All corporate systems, machines and buildings must have physical and technical data and
+intrusion protection controls to prevent malicious hacker and unauthorized access.
+• There must be a traffic-monitoring device, such as a firewall, in place to examine activity coming
+into and leaving the organization's network.
+• Management should practice risk assessments, data handling policies, data loss prevention (DLP)
+and record all security policies and procedures
+Policy on Emails and other forms of communication
+Email is not secure. TriageLogic requires that email cannot contain PHI anywhere in the heading or
+body of the message. To view any PHI, the user has to log into the system with a user name and
+password. When communicating about patients via email, we refer to ticket numbers or note numbers
+without mentioning any PHI. Reports and recordings are sent as links for which the user has to login to
+view the PHI.
+None of the following items can be included in any unsecure communication:
+1. Names
+2. All geographical identifiers smaller than a state, except for the initial three digits of a zip code if,
+according to the current publicly available data from the Bureau of the Census: the geographic unit
+formed by combining all zip codes with the same three initial digits contains more than20,000
+people; and the initial three digits of a zip code for all such geographic units containing 20,000 or
+fewer people is changed to 000
+3. Dates (other than year) directly related to an individual
+4. Phone numbers
+76
+5. Fax numbers
+6. Email addresses
+7. Social Security numbers
+8. Medical record numbers
+9. Health insurance beneficiary numbers
+10. Account numbers
+11. Certificate/license numbers
+12. Vehicle identifiers and serial numbers, including license plate numbers;
+13. Device identifiers and serial numbers;
+14. Web Uniform Resource Locators (URLs)
+15. Internet Protocol (IP) address numbers
+16. Biometric identifiers, including finger, retinal and voice prints
+17. Full face photographic images and any comparable images
+18. Any other unique identifying number, characteristic, or code except the unique code assigned by
+the investigator to code the data.
+The HIPAA Compliance Policy needs to be signed by all employees and contractors with access to
+patient data.
+TriageLogic HIPAA CompliancePolicy
+(Updated December 2012)
+This TRIAGE HIPAA COMPLIANCE POLICY of Triage Logic Management & Consulting,
+LLC (“Triage”) shall apply to all employees of Triage, agents of Triage and employees of Triage
+subcontractors (collectively the “Service Providers”). All agents with access to patient data must sign this
+document.
+PURPOSE OF THIS POLICY. Service Providers are providing various health care services for Triage
+(the “Services”) which may involve the observation or use of patients/patient records of hospitals, clinics
+or other health care organizations or entities that have entered into services agreements with Triage (these
+various health care groups shall be collectively referred to as the “Covered Entities”). In the course of
+providing such Services, Service Providers from time to time have access to or possession of Covered
+Entity’s patient protected health information or “PHI,” as such term is hereinafter defined. This Policy
+shall set forth the terms and conditions pursuant to which Service Providers shall use, secure and keep in
+confidence such PHI.
+1. Definitions. For the purposes of this Policy, the following terms shall have the following
+77
+meanings:
+(a) Electronic Protected Health Information or “EPHI”. A subset of PHI,
+consisting of any PHI that is transmitted by electronic media or maintained in electronic media.
+(b) Individual. The person who is the subject of the PHI, and has the same meaning
+as the term “individual” as defined by the HIPAA Regulations.
+(c) HIPAA Regulations. Those regulations codified at Title 45 of the Code of
+Federal Regulations (C.F.R.) and relating to privacy and security of PHI.
+(d) Protected Health Information or “PHI”. Any information concerning an
+Individual, whether oral or recorded in any form or medium: (1) that relates to the past, present or future
+physical or mental condition of such Individual; the provision of health care to such Individual; or the
+past, present or future payment for the provision of health care to such Individual; and (2) that identifies
+such Individual with respect to which there is a reasonable basis to believe the information can be used to
+identify such Individual, and shall have the meaning given to such term under the HIPAA Regulations.
+2. Disclosures and Use of PHI. Subject to this Policy, Service Providers shall not the use
+the PHI except as necessary to provide the Services. Service Providers hereby agrees that the PHI
+provided or made available to it shall not be further used or disclosed other than as permitted or required
+by this Policy. Without limiting the foregoing, Service Providers agrees: (i) not to share PHIwith
+anyone not directly involved in the patient’s care or treatment; (ii) not to discuss PHI in areas where it
+may be overheard; (iii) not to access any PHI without specific direction by Triage; (iv) not to attempt
+access to PHI for personal reasons; (v) to inform Triage of any personal relationships which Service
+Providers may have with a patient or patient’s family whose PHI Service Providers may access; (vi) if
+allowed access to EPHI by Triage or the Covered Entity, to clear computer screens of PHI before leaving
+the screen; (vii) to return any PHI provided on paper to the professional staff member or employee who
+provided it or to dispose of it within the facility using a shred-it box or as otherwise directed by the
+person who provided it; (viii) not to store or transmit any PHI using a portable device or any other
+electronic means; (ix) not to remove PHI in any form from the Covered Entity’s facility; and (x) not to
+make any photographs, videos, voice recordings or any other reproduction of any PHI.
+3. Service Providers Obligations.
+(a) Right of Access to PHI. Service Providers and its representatives and
+employees shall forward all Individual requests for access to PHI to Triage within one (1) business days
+of receipt.
+(b) Amendment of PHI. Service Providers shall forward all requestsfor
+amendments to an Individual’s PHI to Triage within one (1) business days of receipt.
+(c) Accounting of Disclosures. Service Providers shall forward all requests for an
+accounting of disclosures of PHI to Triage within one (1) business days of receipt.
+(d) Reports of Improper Use or Disclosure and Cooperation. ServiceProviders
+shall report in writing to Triage within one (1) business day of discovery any use or disclosure of PHI not
+provided for or allowed by this Policy. Service Providers shall cooperate with Triage and the Covered
+Entity in any review/investigation of an actual or potential breach of HIPAA privacy orsecurity
+regulations.
+6. Termination and Breach.
+(a) Immediate Termination. In regard to Triage employees, Triage reservesthe
+rights to discipline any employee of Triage that has breached this Policy, including, the right to terminate
+such employee’s employment with Triage. In regard to Triage subcontractors and agents, Triage reserves
+the right to terminate their agreement with such subcontractors and agents if they breach this Policy, and
+to seek such relief allowed by the contract with such subcontractor or agent and applicable law.
+78
+(b) Injunctive Relief. Notwithstanding any rights or remedies provided for in this
+Policy, Triage shall be entitled to obtain temporary and permanent injunctive relief from any court of
+competent jurisdiction to prevent or stop the unauthorized use or disclosure of PHI by Service Providers.
+(c) Return or Destruction of PHI. Upon the termination or expiration of Service
+Providers’ employment, agency or subcontract relationship with Triage, Service Providers hereby agrees
+to return to Triage all PHI received from, or created or received by Service Providers, from or on behalf
+of Covered Entity.
+5. General Provisions.
+(a) State Law Preemption. Certain provisions of state law relating to privacy of
+PHI may not be preempted by, and may supersede, the HIPAA Regulations. With respect tosuch
+provisions of state law not preempted by the HIPAA Regulations, Service Providers shall maintain full
+and complete compliance with all state privacy requirements.
+(b) Property Rights. All PHI shall be and remain the property of Triage or the
+Covered Entity. Service Providers agrees that it shall not acquire any title or rights to any PHI.
+(c) Changes. This Policy may be unilaterally modified by Triage in response to new
+statutory or regulatory requirements related to HIPAA, the HIPAA Regulations or other applicable state
+or federal law relating to security and privacy of PHI. Any ambiguity in the language contained in this
+Policy shall be interpreted consistent with HIPAA Regulations.
+Agreed to and Acknowledgedby:
+By:
+(Signature)
+Name:
+(Print or Type)
+Company:
+Date:
+79
+STAFF	PERFORMANCE	APPRAISAL	FORM
+Name:		
+Title:		
+Appraisal	Type:	 Annual	 90-Day	 Special
+Appraisal	Period:	
+Rating	Factors:
+Not	Applicable 0%
+Can	mean	either	not	applicable	to	the	employee	or	not	applicable	to	your	experience	with	the	employee.
+Distinguished 5%
+Performance	far	exceeds	normal	requirements	of	the	job.	Outstanding	nature	of	performance	is	evident	to	
+anyone	in	a	position	to	observe	and	evaluate	it.	Level	of	performance	approaches	the	maximum	possible	
+attainment	for	the	position.	Very	few	are	able	to	reach	this	level	of	accomplishment.
+Commendable 30%
+Performance	clearly	exceeds	the	requirements	of	the	job.	Performance	is	worthy	of	special	note.	
+Accomplishment	indicates	extra	thought,	effort,	imagination,	and	results.
+Competent	50%
+Performance	clearly	meets	the	requirements	of	the	position.	Continued	performance	at	this	level	would	be	
+perfectly	acceptable.	Accomplishment	reflects	a	solid	level	of	performance.	Most	qualified	people	are	able	to	
+attain	this	level	of	accomplishment.
+Needs	Improvement 10%
+Performance	is	below	the	competent	level.	Employees	who	are	new	on	this	job	and	develop	at	less	than	
+expected	rate	would	fit	this	category.	Continued	performance	at	this	level	is	unacceptable.
+Unacceptable 5%
+Performance	is	clearly	unsatisfactory	and	below	expectations.
+Self		Supervisor
+Core	Values
+Not	Applicable
+Distinguished
+Commendable
+Competent
+Needs	
+Improvement
+Unacceptable
+Integrity
+Exemplifies	ethical	behavior.
+Speaks	positively	about	the	company,	its	staff,	and	its	leaders.
+80
+Protects	the	interests	of	the	company	and	aligns	him	or	herself	with	
+the	company	values.
+Protects	company, its	members,	suppliers	and	customers from	gossip	and	
+harm.	Examples	include harmful,	hurtful,	critical,	demeaning,	and	
+judgmental	conversation outside	the	presence	of	the	one	who	is	the	
+subject	of	the	conversation	
+Compassion
+Demonstrates	care	for	coworkers,	clients	and	patients.
+Develops	and	maintains	positive	and	harmonious	relationships	with	
+supervisors,	coworkers	and	clients;	tactfully	handling	sensitive	
+situations.
+Is	able	to	identify	and	respond	to	customer	needs.
+Demonstrates	diplomacy	and	patience	in	dealing	with	customers.
+Reliability
+Consistently	provides	good	quality.
+Steps	in	to	help	when	necessary.		
+Can	be	relied	upon	to	carry	out	instructions	to	work	with	limited	
+supervision	and	to	be	a	self-starter.	
+Accepts	new	assignments	and	responsibilities	willingly.	
+Is	ready	to	perform	at	the	beginning	of	their	shift	or	if	on	a	flexible	
+schedule,	keeps	enough	common	hours	to	facilitate	teamwork.
+Collaboration
+Communicates	with	others	to	achieve	the	team’s	common	goals.
+Asks	for	help	when	necessary.
+Shows	appreciation	for	help	and	suggestions.
+Is	flexible	and	willing	to	try	new	ideas	and	processes.
+Excellence
+Aspires	to	be	their	best	by	setting	goals.
+Demonstrates	commitment	to	achieving	the	goals.
+Shows	initiative	to	grow	and	learn	new	skills.
+Is	organized	within	their	field	by	being	able	to	meet	deadlines,	
+communicate	or	perform	tasks	effectively	and	without	errors.
+Competency
+Not	Applicable
+Distinguished
+Commendable
+Competent
+Needs	
+Improvement
+Unacceptable
+Individual	Ability	and	Knowledge
+81
+Demonstrates	technical	literacy	by	learning	and	applying	new	
+technologies	to	their	job,	soliciting	the	support	of	systems	
+applications	to optimize	work.
+Understands	the	business	structure,	products	and	services	of	each	
+company	in	the	TriageLogic	group.
+Has	flexibility	to	consistently	seek	improvement	in	processes	and	quality	
+of	output.	Accepts	changes	in	direction	readily	and	alters	plans	to	meet	
+new	goals	set	by	supervisor	or	team.	
+Composes memos,	reports,	documentation	that	are	clear,	well-organized,	
+and	grammatical.	Accurately	transmitting	instructions	or	messages	in	a	
+written	form.	
+Processes	incoming	information	and	inquiries by	directing	mail,	calls,	and	
+visitors	accurately	and	efficiently.	Answers	telephones	promptly	and	
+courteously.	Greets	clients	in	a	professional	manner	and	maintains	
+confidentiality.	
+Creates	and	maintains	well-organized	files.	Maintains	complete	and	
+accurate	records	that	can	be	readily	accessed	when	information	is	
+needed.	
+Determines	and	obtains	the	information	needed	to	solve	a	problem	
+within	own	scope	of	work.	Applies	rules	and	standards	to	decisions.	
+Weighs	alternatives	and	selects	the	best	solution,	and	asks	managers	or	
+supervisors	when	a	decision	is	beyond	own	scope	of	work.	
+Management
+Not	Applicable
+Distinguished
+Commendable
+Competent
+Needs	
+Time	Management
+Improvement
+Unacceptable
+Manages	time	effectively	to	meet	assigned	deadlines.
+Implements	follow-up.
+Balances	special projects	with	routine	work.
+Effectively	coordinates	tasks	amongst	team	members	and/or	vendors.
+Supervisory	Oversight
+Leads	by	personal	example,	demonstrating	the	goals	and	priorities	of	
+the	company	inspiring	people	to	believe	they	can	make	a	significant	
+contribution.
+Takes	responsibility	for	coaching	and	development	within	their	
+department.
+Gives	on-going,	immediate	and	constructive	feedback.
+82
+Reports	information	and	participates	effectively	in	meetings.
+Analyzes	and	makes	decisions	by	obtaining	the	information	needed	to	
+solve	a	problem	and	applying	rules	and	standards	to	decisions.	
+Puts	a	focus	on	profitable	results	of	the	business	into	all	planning.
+Internal	Control
+Understands	the	risks	and	controls	related	to	their	position	and	the	
+impact	it	can	have	on	the	profitability	of	the	business.
+Is	knowledgeable	of	the	URAC	standards	related	to	their	position.
+Adheres	to	the	URAC	standards.
+Knows	the	operations	and	procedures	of	the	company	or	is	aware	of	
+the	sources	for	answers	to	questions.
+Action	Plan	/	Goals:
+1.
+Supervisor's	Comments:
+Employee's	Comments:
+Employee's	Signature:
+(Signature	indicates	only	receipt	of	the	review,	not	that	the	employee	
+agrees	with	the	review) Date:
+83
+Appraiser's	Signature/s: Date:
+EMPLOYEE’S	REFUSAL	TO	SIGN:	
+I	certify	that	this	performance	appraisal	was	discussed	with	the	
+employee	who	refused	to	sign. Date:
+HIPPA:
+I	HAVE	RECEIVED	THE	MOST	RECENT	COMPANY	POLICY	AND	
+PROCEDURE	MANUAL.		I	WAS	REMINDED	ABOUT	HIPAA	AS	IT	
+APPLIES	TO	MY	POSITION.				I	WAS	GIVEN	AN	OPPORTUNITY	TO	ASK	
+ANY	QUESTIONS	RELATED	TO	MY	WORK,	HIPAA	AND	ANY	RULES	OR	
+REGULATIONS	I	AM	EXPECTED	TO	FOLLOW.		(P/P	Revised:		1/2017)
+Employee's Signature: Date:
+84
+RATING FACTORS
+The following are conditions that should be considered when assessing the employee’s performance.
+JOB KNOWLEDGE: In depth knowledge of all requirements of the job. How well does the employee
+understand all phases of the job as defined by the performance standards set for the position?
+QUALITY OF WORK: Accuracy and neatness. Does the employee produce a high quality work product? Is
+quality work a priority for theemployee?
+PRODUCTIVITY: Consider employee’s ability to prioritize and organize work effectively to meet assigned
+deadlines. Were assignments timely completed and appropriate follow-up implemented? Is the employee a selfstarter?
+DEPENDABILITY: Employee needs little or no direction. To what extent can the employee be relied upon to
+carry out instructions; and the degree to which the employee can work with limited supervision?
+ATTENDANCE: Attendance and punctuality are very important in maintaining a normal work load and
+efficient schedule. Employees are expected to report to work regularly and be ready to perform their assigned
+duties at the beginning of their assigned work shift. Is the employee absent frequently? Are the absences
+affecting his/her performance? Does this pattern constitute a hardship on the work environment?
+RELATIONS WITH OTHERS: Consider employee’s abilities to maintain a positive and harmonious attitude
+in the work environment. How well does the employee relate to the supervisors, co-workers and the broader
+TriageLogic community?
+COMPLIANCE WITH STANDARDS: To what extent has the employee followed company policies and
+procedures, State and Federal Requirements and URAC standards?
+SUPERVISOR ABILITY: In the evaluation of this factor, consider the employee’s ability to organize, plan,
+train, delegate and control the work of subordinates in an effective manner.
+LEVELS OF PERFORMANCE
+The employee’s performance shall be rated in one of the following categories:
+EXCEED PERFORMANCE STANDARDS: An evaluation resulting from overall performance which is
+significantly above the performance standards of the position.
+ACHIEVES PERFORMANCE STANDARDS: An evaluation resulting from performance which fully meets
+the performance standards of theposition.
+BELOW PERFORMANCE STANDARDS: An evaluation resulting from performance which fails to meetthe
+minimum performance standards of the position. The supervisor must contact Human Resources to initiate a
+Performance Improvement Plan, which must be completed jointly by the employee and the supervisor.
+Distribution: Original – HumanResources Copy – Supervisor Copy – Employee
+83
+90 Day Employee Review
+Employee Name: Title:
+Reviewer Type: Mgt. Appraisal # of Raters: 4 Mgrs. and Self w
+This document provides the necessary information we require to achieve a highly effective
+workplace. Please ensure you answer the following questions with honesty and integrity. Your
+responses will be documented along with those provided by your team. The individual who is
+being reviewed will not be made aware which managers gave which ratings. Thanks for taking
+part.
+How would you rate this fellow colleague overall?
+High Low
+10 9 8w 7 6 5 4 3.60 2 1 0
+Below we would like you to select the accurate description for your colleague, please ensure you
+complete each line. Please be aware that the “NFH” section is for those who do not have first hand
+knowledge to be able to comment - should this be the case please circle “NFH”.
+Using the scale of 1-5 in this section 1 being “less likely” and 5 being “highly likely”. Please select
+the number in the end box or select the “NFH” box.
+1 Exemplifies Ethical Behavior 1 2.50 3 4w 5 NFH
+2 Is respectful of the workplace and colleagues 1 2 3.40 4 5w NFH
+3 Is able to plan, organize, administrate, prioritize
+and meet deadlines
+1 2.20 3w 4 5 NFH
+4 Understands and complies with company policies
+and procedures
+1 2.50 3 4w 5 NFH
+5 Represents the company in a positive manner
+when interacting with customers and others
+outside of the company
+1 2 3.67 4 5w NFH
+6 Is willing to develop new skills and grow within
+the company
+1 2.75 3 4 5w NFH
+7 Is able to communicate, listens, and follow up
+with assigned task
+1 2.00 3w 4 5 NFH
+84
+8 Performs good quality work, is accurate,
+thorough, productive and attains goals
+1 2.25 3 4w 5 NFH
+9 Willing to accept responsibility of his or her own
+actions
+1 2.50 3 4 5w NFH
+10 You are comfortable communicating with this
+colleague
+1 2 3.00 4 5w NFH
+Please list the areas where you feel this employee is doing well.
+Please list any areas where you feel this employee could improve.
+Any concerns?
+Training Suggestions: What additional training would you suggest to help this colleague in the
+areas needing improvement mentioned above?
+Reviewer Feedback: 
+85
+EMPLOYEE PERSONNEL FILE CHECKLIST Core25
+*Update the checklist of documents to be in each file annually CORE 26
+ CV or Application
+ Job Description
+ Employment Contract or Contractor Agreement
+ W4 Form or _I-9 Form
+__IRA
+Confidentiality Statement Form (employeesonly)
+Licensure/Certification Verification/Attestation core 26, core 30
+			Proof	of	Current License
+			Proof	of	Liability Insurance
+			 LicenseVerification
+			 Employee	Attestation	Statement	ofLicensure
+Documentation ofTraining/Orientation
+ Orientation
+ Staff Orientation/TrainingAttestation
+ On-going Training/Education/Continuing Education (CE)
+ Signed HIPAA CompliancePolicy
+ URAC Training (as appropriate)
+ HIPAA Training/Updates
+ State Regulatory Training
+ New Nurse Requirement Checklist (PhoneRN Only)
+Yearly PerformanceEvaluations
+ Yearly PerformanceEvaluations
+86
+87
+Subject of Training:
+Date:
+Participants Name: Job Title:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+88
+9. Clinical Staff
+A. Clinical Staff Credential Verification and Medical Director Responsibility
+This	policy/procedure	appliesto:
+_XTriage Logic
+_X_Phone RN
+_X_PRN
+Effective	Date: 11/13/2013
+Name	of	Policy/Procedure:	ClinicalStaff
+Credentialing
+Previous	VersionsDated:
+Policy	#: 16 Most	Recent Review: 9/27/16
+CORE 30 a-• -d
+I. PURPOSE
+To provide a mechanism to maintain current licensure and certification information for Medical Staff
+members/Practitioners, and to deal with adverse reactions against these licenses and certificates.
+II. POLICY
+It is the policy of TriageLogic to verify the current licensure or certification of staff whose job description
+requires licensure or certification upon hire and thereafter no later than scheduled expiration and no less
+than every three years through the applicable State Board of Nursing and utilize Nursys eNotify for keeping
+track of renewals and alerts only. In addition, it is the responsibility of the individual staff member to notify
+TriageLogic immediately should an adverse change in licensure or certification status occur. CORE 30d
+The following Practitioners fall under this policy:
+1. Medical Director: Medical Director is a licensed physician. CORE	31b	and	c	Current licensing
+information is available on the medical board of state of license website. The Medical Director
+license is verified by the Compliance Officer and reported to the CEO.
+2. Nursing Licensure: TriageLogic uses each applicable State Board of Nursing to verify licensure
+and report any changes in status to the Medical Director.
+CORE	30 a
+89
+CORE 30 d TriageLogic requires that upon hire, staff who are required to have credentials/ certification
+sign an attestation noting that TriageLogic be informed of any changes to licensure/certification status
+immediately.
+The following employees of TriageLogic are required to have current licensure or certification:
+Nursing:
+1. All RN’s CORE 30
+Upon hire, all RNs need to sign the following requirements:
+As a condition to this Agreement, the Consultant must provide the following in a form and
+substance acceptable to PRN/PhRN, prior to the initial provision of Services and as
+requested by PRN/PhRN:
+a. Proof of current licensure as a Registered Nurse in a Nurse Compact State, and
+maintenance and proof of such licensure during the Term by faxing proof of licensure
+upon renewal;
+b. Proof of current professional liability insurance in a form and amount of coverage
+acceptable to PRN/PhRN, and maintenance and proof of such insurance during the
+Term by faxing proof of renewals or replacement coverage (the policy shall name
+PRN/PhRN as an additional insured);
+c. Proof of current DSL or equivalent internet service (no dial up service) and telephone
+service, and maintenance and proof of such services during the Term; to be obtained
+and maintained at the sole expense of the Consultant; and
+d. Completion of orientation provided by PRN/PhRN to the satisfaction ofPRN/PhRN.
+Proof of continued compliance with these licensing, certification, insurance, and internet and telephone
+requirements must be provided by the Consultant to PRN/PhRN in a form and substance acceptable to
+PRN/PhRN on or before the expiration of the current term of such licenses, certifications, insurance, and
+internet and telephone requirements. However, PRN/PhRN may request proof of compliance by Consultant
+of these requirements at any time, and such proof shall be promptly provided by the Consultant to
+PRN/PhRN upon any such request. Any failure by PRN/PhRN to request proof of such compliance at any
+time shall not constitute a waiver, estoppels, modification, or any other defense to full compliance with
+these requirements. The Consultant further agrees to immediately provide PRN/PhRN notice that it has lost
+the license required by section a. above or if the insurance policy required in b. above has been terminated,
+cancelled or expired.
+90
+2. Medical Director
+Education required:
+• Current unrestricted Medical License. Medical Licensure status is monitored by the
+Compliance Officer and the CEO. HCC2a.	CORE 31a
+• Minimum five years post graduate direct patient care experience HCC2c.	Core 31c
+• Board Certification CORE 31d
+• The Medical Director is required to inform TriageLogic of adverse changes to
+licensure/certification status immediately so reassignment of duties can be made. CORE
+30
+Credentials Verification:
+The following credential verifications will be obtained for all Practitioners from the primary
+source or a designated equivalentsource:
+Florida board of medicine CORE	30b
+a. Issuing State or Entity
+b. Type of Licensure
+c. Expiration Date
+d. Licensure in Good Standing
+III. Adverse Changes in Licensure/Certification Status
+Core 30c
+The CEO is responsible for implementing corrective actions with respect to medical director and
+clinical privileges. The Medical Director is responsible for implementing corrective actions with respect
+to nursing licenses and clinical privileges: CORE 32d
+Voluntary surrender or restriction of clinical privileges in response to adverse changes in licensure
+or certification.
+• Adverse actions including reducing, restricting, suspending, revoking, or denying privileges,
+or a decision not to renew privileges, if that action or decision was based on the
+practitioner’s professional competence or conduct
+• Voluntary withdraw of an initial application for medical staff membership and/or clinical
+privileges while provider under investigation by the hospital for possibleprofessional
+incompetence or improper professional conduct or in return for not conducting such an
+investigation or taking a professional review action
+91
+IV. Primary Responsibilities of the Medical Director
+1. Maintains accountability for the medical oversight of the Triage Logic Call Center, ensuring
+appropriate level of quality care, compliance with protocols, policies and procedures, and practice
+standards. Ensures the organizational objective to have qualified clinicians accountable to the
+organization for decisions affecting consumers. CORE 32	d
+2. Serves as advisor to the Nursing staff by participating in the oversight of operational activities to
+ensure the efficient use of resources and development of goals and objectives. CORE 31
+3. Maintains accountability for review and approval of all telephone triage protocols.Reviews,
+evaluates and resolves potential grievances associated with participating physicians or triage
+staff. Core 32b
+4. Maintains contact and consultation with practitioners by speaking to customers, attending
+medical conferences and keeping abreast of changes in medicine Core 32c
+5. Active member of the Triage Logic Quality Committee and Executive Board. Serves in the
+capacity of Triage Medical Director On-Call.
+6. Monitors all delegated entity activities; pre-assessment and ongoing assessments of delegated
+entities, specifically PRN. Core 7,	 Core 8 a-• -h
+7. Oversees periodic quality assurance and review of randomly selected patient triage telephone
+encounter forms. Serves as a member of the Quality Committee and participates inquality
+assurance and quality improvement activities as appropriate and necessary. Approximately 45%
+of the Medical Director/COO’s time is spent on quality assurance initiatives and client complaint
+resolution activities. CORE	32 d
+8. Establishes and maintains effective communication channels with all associates and
+reviews/reports program status as appropriate. Provides oversight for compliance with regulatory
+agencies regarding standards for telephone phone triage and advice services.
+9. Responsible for corporate compliance with information confidentiality and security, and reports
+any breach to Compliance Officer.
+10. Tracks applicable laws and regulations in the area of nursing and telephone medicine and informs
+any changes in law to the CEO and to any parties affected by law. CORE	4 a
+V. Related Documents
+See sample contracts and jobdescriptions.
+See Employee Attestation Statement of Licensure
+92
+B. Financial Incentives of Clinical Staff CORE33
+This	policy/procedure	appliesto:
+			 Triage Logic
+			Phone RN
+			PRN
+EffectiveDate:11/13/13
+Name of Policy/Procedure: FinancialIncentives Previous	VersionsDated:
+Policy	#: 17 Most	Recent Review:
+I. POLICY
+TriageLogic does not have a system for reimbursement, bonuses or incentives to staff or health care
+providers based on consumer utilization of health care services.
+Clients provide the TriageLogic service to their patients and TriageLogic provides no additional
+financial incentive to reflect on patient care. All of our consumers come to TriageLogic through their
+medicalrepresentative.
+The nurses who take call for the call center are either an employee on an hourly/fixed salaryor
+contractors paid an hourly rate. Nurses are not incentivized on the number of calls handled in an hour
+or a shift.
+TriageLogic contracts with clients who then in turn control the access to the service through their own
+phone system. TriageLogic does not receive any financial incentive from the clients except for the prenegotiated fee schedule for services. The fee structure does not have any impact on the nurse managing
+the patient calls.
+In some particular cases (such as in delegated work to PRN), TriageLogic will pay owners on a per call
+basis. However, owners do not have direct contact with practices and they cannot directly influence
+patients to make phone calls. Patients come directly through their physicians, and the physicians are the
+ones who instruct their patients to call nurses. Triage Logic’s medical director and the CEO participate
+in meetings with the PRN owners to ensure that they are not able to influence patient phone calls. In
+addition, medical Dir. is responsible for overseeing nursing quality and random checks on past phone
+calls to ensure the highest level of quality of care, and no influence on patient phone calls. Finally,
+triage logic also conducts patient surveys and research to study patient phone call patterns and patient
+satisfaction from the nurse call.
+93
+C. Client and Consumer Access to Program Services CORE 34
+This	policy/procedure	appliesto:
+X		Triage Logic
+			Phone RN
+X PRN
+EffectiveDate:11/13/13
+Name of Policy/Procedure: Access toServices Previous	VersionsDated:
+Policy	#: 18 Most	Recent Review: 9/27/16
+I. CLIENT AND CONSUMER ACCESS TO PROGRAM SERVICES
+Refer to ClinicalDocument
+a. Client Access
+Our agreement with the client has a toll free line – the client uses that number to forward calls to
+the triage system as per our pre-agreed coveragetimes.
+b. Consumer/Clinical Access
+Patients/callers access triage services either by calling an assigned telephone number specific to the
+participating physician’s office, or as a call forwarded to our contracted medical answering service.
+Every call put into the system remains in the common queue until a nurse claims the call. This
+ensures that no call can be left unanswered. As part of TriageLogic’s Telephone Performance
+Standards, the following information related to access is monitored on a monthly basis:
+• Call Volume
+• Average speed to answer
+• Call Abandonment Rate
+• Percentage of Calls on Hold
+• Average Blockage Rate
+• Average Call Back Time
+Access Standards
+See Call Center Policies – Policy for Monitoring Telephone Performance Standards
+The following information ismonitored:
+Average Speed to Answer, Call Abandonment Rate, Percentage of Calls on Hold, Average Blockage
+Rate
+94
+D. Consumer and Medical Complaint Process CORE35
+This	policy/procedure	appliesto:
+			 Triage Logic
+			Phone RN
+			PRN
+EffectiveDate:11/13/13
+Name	of	Policy/Procedure:	Complaint Process Previous	VersionsDated:
+Policy	#: 13 Most	Recent Review: 9/27/16
+I. Client/Consumer Complaints
+1. All complaints come through the provider (client) who is contracting for services.
+2. Each client has a designated client relations manager to contact directly to inform us ofany
+complaints. TriageLogics client relations manager contacts the client and informs them about the
+process to get the complaint resolved and also lets them know that they are allowed to speak
+directly to the medical director if they need to speak to someone in addition to filing the incident
+report. Core 35b The Client Relations Manager takes on the complaint and places it in an incident
+report. Core 35a
+3. The Client Relations Manager gathers information about the complaint and forwards it tothe
+appropriate party - the manager of the non-clinical staff or the nurse manager on call for the clinical
+staff.
+4. The manager of the non-clinical staff or the nurse manager reviews the complaint, listens to the
+call, reviews the note and talks to the agent or nurse involved.
+5. Then manager will write a summary of their findings, how the complaint was addressed and if the
+provider was informed.
+6. All complaint forms are sent to the medical director to sign off and discuss at the weekly nurse
+manager meeting. CORE 35c
+7. If the nurse manager feels the medical director needs to be involved in the resolution, then they will
+inform the client that they are discussing the case with the medical director and will get back to
+them.
+8. Time frames for complaint resolution: Complaints/Incidents should be resolved within 30 days
+from the time the complaint is received to the time we contact the client with resolution. In some
+cases, it may take a few extra days in order to resolve a complaint completely, however, the
+resolution date is noted in the complaint form. CORE 35d.
+95
+9. Medical director reports complaints to the quality management committee at least once a year.
+Complaint reports are also available in sugar sync for the CEO and nurse managers to verify and
+keep track. Core 35e
+Clinical Incident Report
+96
+Reminders:
+Please do not change the password without letting any Nurse Manager know first
+Only nurse managers should submit the incident reports. If a nurse that is not a manager fills out
+the report, click “Save Partial Work” and let a nurse manager know
+97
+98
+99
+100
+101
+102
+103
+104
+10. Consumer Protection and Empowerment
+38,	39, 40
+This	policy/procedure	appliesto:
+X	Triage Logic
+			Phone RN
+X PRN
+Effective	Date:11/13/13
+Name	of	Policy/Procedure:	ConsumerSafety
+Mechanism
+Most	Recent	RevisionDated:
+Policy	#: 10 Most	Recent Review: 9/27/16
+I. POLICY
+TriageLogic is committed to patient safety and follows specific procedures when responding to
+patients with an immediate threat of health and safety.
+The Clinical Manager of the call center can be reached by non-clinical staff 24 hours a day/7 days a
+week to respond to issues or questions related to patient care. Patients who have problems which are
+thought to be potentially life, limb or vision threatening will be triaged as “Urgent” and directed to
+seek care within 24 hours or sooner. These patients may be directed to ED, urgent care center,or
+physician office. TriageLogic also maintains specific procedures for special circumstances/high risk
+cases. Please see the related documents at the end of this policy.
+TriageLogic trains staff, through mock simulation calls, proper procedures for handling Urgent/High
+Risk Cases.
+II. RELATED DOCUMENTS
+See Call Center Policies - Clinical Staff Training Policy
+See Call Center Policies - Procedure for Special Circumstances / High Risk Cases
+CORE 37,
+105
+HEALTH LITERACY Core 40
+This policy/procedure appliesto:
+X Triage Logic
+__Phone RN
+X PRN
+Effective Date:11/13/13
+Name of Policy/Procedure: Health Literacy Most Recent Revision Dated:
+Policy #: 11 Most Recent Review: 9/27/16
+• Making sure the consumer materials are in plain language; see definition below. Core 40 a
+• Measuring the extent to which the organization's consumer documents use plain language; if
+applicable
+• Training staff members who interface with or write content for consumers.
+I. POLICY
+It is the policy of TriageLogic to create materials that consumers/patients have the capacity to obtain,
+process, and understand in order to make appropriate decisions regarding their health and that materials
+are written in plain language. The following three elements will be considered when communicating
+with patients:
+Plain Language is defined as: Communication that uses short words and sentences, common terms
+instead of (medical) jargon, and focuses on the essential information recipients need to understand.
+TriageLogic interacts with consumers through nurse triage. TriageLogic nurses only give patients
+advice from standard guidelines provided by Dr. Bart Schmitt and David Thompson. Under no
+circumstances are nurses allowed to use outside resources unless pre-approved by the Medical Director
+and made available from within the software.
+Nurses are allowed to email health information after they have completed a full assessment of the patient
+using the standard triage guidelines. These information sheets are provided within the Schmitt Thompson
+database.
+When emailing a patient, staff are asked to communicate in ways understandable to the consumer,
+without using complex medical terms or jargon. Core 40 c
+Any materials created internally for consumers will be reviewed by the Medical Director to verify that it
+is written in plain language. After approval it will be discussed with the nurse managers at the weekly
+meeting. Once the nurse managers and Medical Director are in agreement, nurses will be informed and it
+will be uploaded to the software and made available to the nurses.
+Core 40(b)
+106

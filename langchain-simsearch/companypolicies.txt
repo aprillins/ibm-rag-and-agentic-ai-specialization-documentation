@@ -1,0 +1,517 @@
+Company Policy
+and Procedure
+Manual
+TriageLogic, LLC
+Initial Version November 2013
+Last update June 4, 2018
+Version 6.0
+Approved By:
+Charu G. Raheja, PhD
+Chair/CEO
+TriageLogic, LL
+TABLE OF CONTENTS
+Note: this covers:
+https://accreditnet.urac.org/Application/3271/Evidence
+Core Standards 1 to 40
+I. Welcome Core 2
+1. About Our Company .............................................................................................................5
+2. Mission Statement...................................................................................................................5
+3. OrganizationalStructureCore1………………………………………… ..................………6
+a. Company Demographic....................................................................................... 6
+b. Diagram Oversight Management Process............................................................9
+c. Diagram Quality Oversight Process......................................................................10
+d. Diagram Information/Communication Process..................................................11
+II. General TriageLogic Policy Core3
+1. Establishing and Creating Policy and Procedures...........................................................12
+2. Document Management Policy.........................................................................................14
+3. Company Website policy ...................................................................................................16
+III. Compliance Core	4,	5,10
+1. Law and Regulatory Compliance .....................................................................................19
+a. Compliance Plan Core4 .................................................................................. 19
+b. HIPAA Compliance Policy .....................................................................................27
+2. Inter-Departmental Coordination Core 5.........................................................................31
+a. TriageLogic Meeting Structure Diagram .............................................................32
+3. Marketing and Sales Communication Core10........................................................... 33
+IV. Business Relations for Delegated Work Core 6.9
+2
+TRIAGELOGIC, LLC 2
+Delegation Oversight Program
+a. Delegation and Review Core	6	and8............................................................35
+b. Selection of Delegate Core	7	and8 ...............................................................36
+c. Delegation Oversight Core	6	and9 ................................................................38
+V. Business Relationships with Clients Core11
+Written Business Agreements/Client Contract Rev ie w ............................. 40
+VI. Client Management and Relations Core 12, 17.28
+1. Client Satisfaction/ End user Satisfaction ................................................... 42
+2. Patient Evaluation Survey Sample............................................................... 44
+3. Client Satisfaction Survey.............................................................................. 45
+4. Quality Management Program.................................................................... 46
+a. Quality Flow Diagram by Committee............................................. 51
+b. Quality Improvement Projects......................................................... 54
+VII. Data Integrity and Information Regulation Core 13.16
+1. Information Management Core 13..........................................................55
+2. Business Continuity/Disaster Recovery Core13,14,15, ..........................58
+3. Information Security Policy Core 15 a b c.................................................61
+4. HIPAA Compliance Policy Core 16 ..........................................................65
+VIII. General Staff Employment Core 25 to 30
+1. General Staff Employment Information ....................................................... 68
+2. HIPPA Compliance Policy ............................................................................. 75
+3. Staff Performance Appraisal Form................................................................ 78
+4. Employee Personnel File ChecklistCore25,26 .........................................81
+5. StaffOrientation/TrainingAttestationCore27 ..........................................82
+6. Training Participation Form............................................................................. 83
+IX. Clinical Staff Core 30.35
+1. Clinical Staff Credentialing Core 30, 31 32 .............................................84
+2. Financial Incentives Core33 .....................................................................88
+3. Client and Consumer Access to Program Services Core 34..................89
+4. Consumer and Medical Complaint process Core 35 ............................89
+a. Incident Report Form......................................................................... 91
+X. Consumer Protection and Empowerment Core37.40
+1. Consumer Safety Mechanism Core 38 ........................................................100
+2. Health Literacy Core 40 ................................................................................ 101
+1. Welcome
+Welcome to Policy and ProcedurePurpose/Interpretation
+The purpose of this Manual is to provide employees of TriageLogic (“TL”) with general information
+regarding the policies and procedures of the Company. Nothing in this manual or in any other documents
+(such as benefit statements, performance evaluations, or any other written or verbal communications)
+should be construed to create an employment agreement/contract (either expressed or implied) for
+anything other than at-will employment.
+Writing or Revising Policy or Procedure
+If you are a TriageLogic employee who is writing or revising a policy or procedure, please consult section
+# 2 of this manual: Policy and Procedure Development & Maintenance. The policy outlines the policy
+and procedure formatting and organization, and the process for approval of policies and procedures.
+About Our Company CORE2c
+Today, TriageLogic is a leading provider of quality, affordable triage solutions. We are a physician-led
+company that offers leading-edge nurse triage services.
+We serve busy practices in need of a phone triage system for patients. Some of our physician groups are
+part of a hospital or a health system. We service all locations in the United States. All groups of patients
+(e.g., pediatric, adult, geriatric) are covered by TriageLogic.
+Triage Logic Nurse Triage on Call provides telephone nurse triage coverage for providers and their
+patients. CORE 2b
+How it works:
+1. Patient calls and talks to a triage representative
+2. Nurse calls patient back and directs patient to the appropriate level of care
+3. As the nurse handles the call, the system documents all the details and the encounter is sent to the
+physician’s office
+Key Features:
+• Gold Standard Protocols from Schmitt-Thompson
+• All calls recorded
+• All licensed registered nurses
+• Call back average time less than 30 minutes
+Mission Statement CORE 2a
+Our mission is to continue to lead the field of nurse triage. We commit our expertise, compassion and
+reliability to services that exceed expectations of medical professionals and their patients.
+“Taking care of our communities one call at a time”
+5
+CORE 2
+Date of incorporation as legal entity: November 2006, Nashville, TN
+Company Demographics CORE1
+A. Advisory Board – The board serves as an advisory committee to help the CEO plan strategy and keep
+up-to date with nursing, regulatory and other requirements.
+Advisory Board Members
+Charu Raheja, PhD – Chair and CEO
+PhD: Finance, New York University, NY
+Special interests: CEO compensation, corporate governance, and healthcare research
+Ravi Raheja, MD – Medical Director and COO
+MD: Robert Wood Johnson Medical School, NJ
+Pediatric Residency: Schneider Children’s Hospital, NY
+Special interests: General pediatrics, medical education and medical information technology
+John Roberts, Esq.
+JD: University of Minnesota Law School, MN
+Partner, New Counsel, PLC, provider of legal and business advice to technology startups
+Former Shareholder at Leonard, Street and Deinard, large corporate firm in Minneapolis, Minnesota
+In-house legal positions, including General Counsel, Deputy General Counsel or Corporate Counsel
+Texas Instruments, DSC Communications Corporation, Net Perceptions and ValueVision Media Inc.
+(all publicly traded companies)
+Shelley Rogers, RN
+Associates in Nursing, Forsyth Technical Community College, NC
+Previous Positions: Labor and Delivery Nurse at Forsyth Hospital, Behavioral Emotional Handicap
+(BEH) Teacher’s Aide, NBHA District Director- District 6
+Special interests: Youth Ministry and Missions
+CORE	1	and 2d
+B. Personnel types and number (professional, clinical, technical, administrative support, employee,
+contractor, etc.):
+Professional /Management
+1. Executive (1) – The CEO plans, manages, and ensures the efficient implementation ofall
+objectives, goals and mission of the company, assures company’s compliance with all city,
+state, and federal laws, initiates all company policies and regulations, ensures the company’s
+increasing profitability and relevance, and represents the company in all public events.
+2. Operational / Administrative (1) – The COO manages all operational aspects of the company
+including administrative, and reporting/evaluation systems and procedures, and assists the
+CEO in the implementation of company objectives, goals and mission.
+3. Medical / Clinical (4)
+a) The Medical Director oversees all clinical staff training and continuing education, and,
+along with the technological department develops new technologies to improve the
+services of the company.
+b) Nurse Directors ensure the efficiency and continuing education of nurses, ensures
+compliance with the state board of nursing and state nurse practice requirements and
+related regulations, coordinates and discusses with Medical Director and COO on number
+and quality of phone calls served by the company
+c) Nurse Managers manage nurses’ schedules, maintain and update nursingguidelines,
+maintain nursing staff and ensures continuous availability of nurse service, conducts
+planning, monitoring and evaluation with nurses, provides clinical support, ensures the
+effective implementation and use of relevant software, ensures all office equipment and
+supplies are available and working
+d) Client Relations supervises the day-to-day management of all clients. Serves asthe
+primary contact person for nurse triage clients and the point of contact between the nurse
+managers, medical director and the clients.
+Clinical (approximate 30 FTE’s or 75 Part Time) – Nurses who directly provide nurse advice
+line to patients.
+Technological/Technical (4) – These are various staff who: 1) design new technologies or
+modules that become relevant as more practices use the software, 2) provide software support to
+clients and ensure that all relevant technological systems are working efficiently all the time, 3)
+ensure the security of all clients’ information, 4) provide training and support for intra-office
+communication systems, and 5) website development.
+Sales (1) - Conducts and follows up sales calls, and clinches business contracts.
+Marketing (3) – Designs, implements, and analyzes marketing strategies and paraphernalia, and
+designs and implements activities/strategies for continuing client relationships.
+Administrative (2) – Files all company documents, prepares invoices, receipts and liquidation
+reports, and conduct other office support such as mailing/posting, scanning, printing documents,
+etc.
+Chief Executive Name: Dr. CharuRaheja charu.raheja@triagelogic.com
+Corporate Medical Director Name: Dr. RaviRaheja ravi.raheja@triagelogic.com
+Compliance Officer Name: Julie Teague, CMAA julie.teague@triagelogic.com
+HR	Payroll	and	Benefits
+OASIS
+Chair	and	CEO
+Phone	RN
+Nurse	Managers
+Corporate	Counsel
+OversightManagementProcess
+Customer	Relations	
+Manager
+Clinical	Software	
+Training
+Software	Oversight
+Graphics	/	Web	Design
+Sales	and	Accounts	
+Manager
+PRN	
+Nurse	Managers
+Medical	Director URAC	and	Compliance	
+Officer Marketing	Director COO
+Phone	RN	Nurse	Manager
+Rules	&	Regulations
+Clinical	Training
+Nursing	Quality
+Client	Relations	Manager
+Client	Feedback
+Pt	&	Client	Satisfaction	Surveys
+Call	Stats
+PRN	Nurse	Manager
+Rules	&	Regulations
+Clinical	Training
+Nursing	Quality
+Quality Nursing OversightProcess All report to the Medical Director and COO. If there are any complaints, these are sent to
+the Client Relations Manager for resolution, and forwarded to the Medical Director for discussion and further attention, if needed. Rules and
+Regulations Managers are informed of the cases in order to avoid similar complaints in the future, or in order to formulate new policies
+procedures, if necessary. These are then reported to theCEO.
+Medical	Director	/	COO
+CEO	&	Quality	Committee	
+Members:
+Medical	Director/COO
+Phone	RN	Nurse	Manager
+Sales	&	Accounts	Manager
+Compliance	Supervisor
+Chief	Compliance	Officer
+Charu	Raheja
+Compliance	Officerr
+Julie	Teague
+Corporate	Counsel
+John	Roberts
+Information	Technology
+Regulations
+Quality	of	Servers	(Speed	and	
+Efficiency)
+HIPPA	Compliance
+Software
+Document	Management/IT
+Management
+Report	on	Sales	and	Accounts
+Report	on	IT	and	Nursing
+Information / Communication Flow
+Medical Director / COO meets with Sales/Accounts, IT, and Nursing, then reports to CEO. Compliance Officer-cum-Chair and CEO meets with
+Marketing and Corporate Counsel and shares with Medical Director/COO the results of the meetings.
+Planning /	Strategy	/	Regulatory
+Quality	Compliance
+Ensure	the	Efficient	
+Implementation	of	Policy	and	
+Procedure
+Treasurer’s	Report
+Approval	of	Policy	and	
+Procedures
+Delegation
+Credentialing
+PRN	/	Phone	RN
+Regulatory	Updates	and
+Requirements	For	Nursing
+Compliance	Issues
+Patient	Complaints
+Quality	of	Patient	Service
+Training	and	Education
+Credentialing
+12
+General TriageLogic Policy
+This	policy/procedure	appliesto:
+X		Triage Logic
+			Phone RN X PRN
+Effective	Date:
+11/13/13
+Name of
+Policy/Procedure: Policy &Procedure
+Development	andMaintenance
+Most	Recent	
+RevisionDate: 9/27/16
+Policy	#: 1 Most	Recent
+Review:
+I. POLICY
+TriageLogic will maintain a policy and procedure manual online. A new electronic copy of the P/P in its
+entirety will be emailed to replace the existing manual should a revision or update occur. The P/P will be
+emailed to the managers and the managers are responsible to distribute to necessary staff. The
+policy/procedure will be emailed to PRN and other staff as it relates to their job.
+TriageLogic (TL) is dedicated to standardizing the way business is conducted among all staff (employed
+and contract). When people do things the same way every time, they eventually become able to complete
+the process in a shorter amount of time, which means they can do more work in the same amount of time.
+Consistency also breeds confidence. Consistent methods assure clients that the company will handle
+accounts with the same care and precision during each interaction. Consistency helps employees and
+alike know what to expect when faced with a given situation.
+TriageLogic has employees in multiple locations and/or employees that work different shifts, staff that
+leave the company and new employees will join the company. The easiest way to communicate
+expectations and processes to all employees without missing anyone, leaving information out or being
+inconsistent is to write and distribute a formal policy and procedure document. Making sure that everyone
+has access to the same information assures quality management.
+All policies and procedures will be reviewed and approved by the Planning/Strategy/Regulatory
+Committee annually, between the months of August and October. This includes all policies and
+procedures related to the following: Clinical Policies, Quality, and IT. CORE	3c. Since policies and
+procedures can change throughout the year, new policies and procedure revisions can be brought to any
+weekly committee for approval and documented in the minutes.
+Depending on the change made to the policy/procedure, employee training will take place at individual
+monthly meetings. In addition, when the policy is updated, the employee will receive a current copy of
+the policy/procedure manual in its entirety and will attest they received it and will comply.
+A standardized format for policies and procedures will not be required at TriageLogic as some forms are
+better than others for a given process; however, the following are required of every TL policy and
+procedure.
+TRIAGELOGIC, LLC
+CORE 3
+13
+Effective dates, review dates (including the date of the most recent revision) and an approval signature from
+the Planning/Strategy/RegulatoryCommittee.
+CORE	3 (d)
+The Effective Date is defined as the date upon which the policy or procedure is to take effect. This date
+may be different from the date upon which the policy or procedure was recorded with a revision date.
+The Most Recent Revision is defined as assigning a unique revision number to a policy or procedure and
+dating it. These numbers are generally assigned in increasing order and correspond to a newer version of a
+policy or procedure. Revision control is used for keeping track of incrementally different versions of
+policies and procedures.
+The Most Recent Review date is the date that the policy or procedure was reviewed or evaluated. The
+revision date does not change on the policy or procedure unless a revision was made to it.
+Revision of an Existing Policy/Procedure
+Effective Date: 09/1/13
+Most Recent Revision 10/1/13
+Most Recent Review: 10/1/13
+Related Documents
+See Master List of Policies andProcedures
+14
+II. Document Management Policy (Managing Documents) CORE	3a,	c, d
+This	policy/procedure	appliesto:
+X		Triage Logic
+			Phone RN
+X PRN
+Effective	Date:11/13/13
+Name	of	Policy/Procedure:Document
+Management
+Most	Recent	RevisionDated:
+Policy	#: 2 Most	Recent Review: 9/27/16
+A. PURPOSE
+This policy establishes the framework under which official records and documents of TriageLogic are
+created and managed.
+B. POLICY
+Records and documents created, received or used by Triage Logic staff in the normal course of business,
+including all email communication, are the property of the Company, unless otherwise agreed. This
+includes reports compiled by external consultants commissioned by theCompany.
+The	Company	email	system	is	Company	property,	and	as	such,	is	subject	to	monitoring.	System	monitoring	is	done	
+for	employee	protection	and	the	protection	of	the	rights	or	property	of	the	Company.	
+As	noted	above,	electronic	mail	is	subject	at	all	times	to	monitoring,	and	the	release	of	specific	information	is	
+subject	to	applicable	laws	and	Company	rules,	policies	and	procedures	on	confidentiality.	Existing	rules,	policies	
+and	procedures	governing	the	sharing	of	confidential	information	also	apply	to	the	sharing	of	information	via	
+commercial	software.	
+Triage Logic’s official records constitute its corporate memory, and as such are a vital asset for ongoing
+operations, and for providing evidence of business activities and transactions. They assist in making better
+informed decisions and improving business practice by providing an accurate record of what has occurred
+before.
+Therefore, records are to be:
+• Managed in a consistent and structured manner
+• Managed in accordance with Triage Logic guidelines and procedures
+• Stored in a secure manner; (Call Center Software System)
+And documents are to be:
+15
+• Created and managed by authorized officers and their direct subordinates
+Recordkeeping and Document Management System
+TriageLogic’s recordkeeping and document management system assists staff to capture records, protect
+their integrity and authenticity, provide access through time, dispose of records no longer required in the
+conduct of its business, and ensure records of enduring value are retained. It also facilitates the creation,
+version control, authority of official corporate documents.
+TriageLogic’s recordkeeping and document management system is managed by the office of the CEO.
+TriageLogic has authorized recordkeeping and document management system in either paper form, Sugar
+Sync and in its Call Center SoftwareSystem.
+All staff is to use the Call Center Software and Sugar Sync to ensure that:
+• official records and documents are routinely captured and subjected to the relevant retention
+and disposal authority;
+• access to records and documents is managed according to authorized access and appropriate
+retention times regardless of location;
+• records and documents are protected from unauthorized alteration or deletion;
+• documents are version controlled as required;
+All staff, who create, receive and keep records and documents as part of their daily work, should do so in
+accordance with established policies, procedures and standards. Staff should not undertake disposal of
+records without authority – and only in accordance with authorized disposal methods. 
+16
+••••
+17
+III. Company Website Policy CORE 3a
+This	policy/procedure	appliesto:
+X		Triage Logic
+			Phone RN
+X PRN
+Effective	Date:4/16/2013
+Name of Policy/Procedure: WebsitePolicy Most	Recent	RevisionDate:4/16/2013
+Policy	#: 3 Most	Recent	Review: 9/27/16
+PURPOSE
+This policy explains our information practices, defines your privacy options and describes how your
+information is collected andused.
+This policy covers the website at http://www.triagelogic.com (the “TL Website”). The TL Website is
+owned and operated by Triage Logic Management and Consulting, LLC ("TLMC"), a Tennessee limited
+liability company (“TL”). Should you have privacy questions or concerns, send an email
+to info@triagelogic.com.
+By using visiting the TL Website, you agree to the collection and use of information in the manner
+described in this policy. TL shall have right at any time and without prior notice, at its sole discretion, to
+revise this policy. If we make material changes to this policy, we will notify you at this TL Website, by
+email, by means of a notice the next time you log in to the TL Website, or by means of a notice on the TL
+Website homepage. Such revisions and additions shall be effective immediately upon notice. You are
+responsible for reviewing the TL Website periodically for any modification to this policy. Any access or
+use of the TL Website by you after notice of modifications to this policy shall constitute and be
+deemed to be your agreement to such modifications.
+The Information we collect
+This policy applies to all information collected on the TL Website and any information you provide to TL.
+You will most likely provide us personal information to us when you request information from TL, register
+as a user of TL Website or participate in certain TL promotions or events. The personal information we may
+collect includes: your name, address, email address, name of employer and phone numbers.
+Posting or SendingInformation
+The TL Website may permit you to post information to the TL Website or send information to TL. When
+you post information to the TL Website, other site visitors can also view that information. We urge you to
+exercise caution when providing personally identifiable information to TL or the TL Website.
+18
+Our Collection of Your Data
+In addition to the personal information you supply, we may collect certain information to evaluate how
+visitors, guests, and customers use the TL Website. We collect data to make the TL Website work better
+for you in the following ways: to improve the design of the TL Website, to provide personalization on the
+TL Website and to evaluate the performance of our marketing programs. The technologies we may use to
+gather this non-personal information may include “IP” addresses, “cookies”, browser detection, and
+“weblogs”.
+How we Use Information
+Our primary goal in collecting your information is to provide you with a personalized, relevant, and positive
+experience with the TLWebsite.
+You can register on the TL Website to receive promotions and updates, or to be contacted for product
+information purposes. You can control your privacy preferences regarding such marketing communications
+(see the section below entitled “Your Privacy Preferences”).
+From time to time, you may be invited to participate in optional customer surveys or promotions, and TL
+may request that you provide some or all of the above listed personal information in those surveys or
+promotions. We use information collected from surveys and promotions to learn about our customers in
+order to improve our services and develop new products and services of interest to our customers.
+IP addresses define the Internet location of computers and help us better understand the geographic
+distribution of our visitors and customers and manage the performance of the TL Website. Cookies are tiny
+files placed onto the hard drive of your computer when you visit the TL Website, so we can immediately
+recognize you when you return to the TL Website and deliver content specific to your interests. You may
+modify your browser preferences to accept all cookies, be notified when a cookie is set, or reject all
+cookies. Please consult your browser instructions for information on how to modify your choices about
+cookies. If you modify your browser preferences, certain features of the TL Website may not be available
+to you.
+We may detect the type of web browser you are using to optimize the performance of the TL Website and
+to understand the mix of browsers used by our visitors, guests, and customers. To learn about how people
+use our site, we examine weblogs, which show the paths people take through the TL Website and how long
+they spend in certain areas.
+TL may contract with unaffiliated third parties to provide services such as customer communications,
+website analytics and other services. When we do this, we may provide your personally identifiable
+information to third parties only to provide those services, and they are not authorized to use your
+personally identifiable information for any other purpose.
+19
+Our Commitment to DataSecurity
+Access to your data is limited to authorized TL staff or approved vendors. Although total security does not
+exist on the Internet, TL shall make commercially reasonable efforts to safeguard the information that you
+submit to TL or that TL collects.
+Use of the TL Website byChildren
+The TL Website is not intended for use by children under the age of 13.
+Your PrivacyPreferences
+When you sign up as a registered user of the TL Website you may begin receiving marketing
+communications such as e-mail newsletters, product and service updates and promotions. Our customers
+generally find this type of information useful. If you do not want to receive these updates, you must “optout” by unchecking the “Add me to the mailing list” box on the registration page, or should you choose to
+opt-out after registering, you can use any of the following methods: select the “unsubscribe” link at the
+bottom of the email and follow the opt-out instructions; or send an email to unsubscribe@triagelogic.com.
+How to Access or Correct Your Information
+You can access and maintain your personally identifiable information that we collect by sending us an
+email to info@triagelogic.com. To protect your privacy and security, we require a user ID and password to
+verify your identity before granting access or making corrections to such personally identifiable
+information.
+Disclosure ofInformation
+We reserve the right to disclose your personally identifiable information as required by law and when we
+believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court
+order or legal process. It is also possible that TL would sell the company or all or substantially all of its
+assets. In any transaction of this kind, customer information, including your personally identifiable
+information, may be among the assets that are transferred. If we decide to so transfer your personally
+identifiable information, you will be notified by an email sent to the last known email address in our files
+and/or by notice posted on the TL Website.
+Privacy and OtherWebsites
+The TL Website may contain links to other websites. TL is not responsible for the privacy practices of these
+other sites. We encourage you to be aware when you leave our site, and to read the privacy statements of
+each web site that collects personally identifiable information. Some linked sites may be co-branded with
+our trademarks and those of our business partners. They may have the look and feel
+of www.triagelogic.com, but the URL in your browser window will indicate that you are visiting a different
+site. This policy only applies to information collected by TL.
+Company website policy will at all times be available in TL website. Currently, it is listed in the following
+area: http://www.triagelogic.com/Privacy
+19
+2. Compliance –
+1. Law and Regulatory Compliance – General
+This	policy/procedure	appliesto:
+X		Triage Logic
+			 Triage	LogicManagement
+		X Phone
+RN X PRN
+Effective	Date:11/13/13
+Name	of	Policy/Procedure:Regulatory
+Compliance Policy
+Most	Recent	RevisionDate:10/30/15
+Policy	#: 4 Most	Recent Review: 9/27/16
+I. PURPOSE
+This policy applies to Triage Logic Management & Consulting, LLC (“TL”) and shall apply to all
+employees of TL, agents of TL and employees of TL subcontractors (collectively the “Service Providers”).
+II. POLICY
+The purpose of the policy is to establish a process to report Potential Compliance Issues, including any
+potential identified issues or questions associated with TL’s Standards of Conduct, TL policies and
+procedures, laws and regulations relating to Federal health care programs, including but not limitedto
+Health Insurance Portability and Accountability Act (HIPAA), and URAC. Furthermore, to the extent that
+there is a potential violation of a criminal, civil, or administrative law, it is the intent of this policy to allow
+issues to be promptly and thoroughly investigated and appropriate corrective action to be implemented.
+PCI - Potential Compliance Issues. All individuals are expected to report PCI immediately upon discovery
+or notification of the same. Reports can be made to an immediate supervisor, department director, Facility
+Compliance officer, Chief Compliance Officer or designee.
+If reports are made to a supervisor or department director, that individual is expected to immediately
+forward the report to the Medical Director and to the CEO.
+III. PROCEDURE
+a. Compliance Plan for TriageLogic, LLC – CORE 4
+TriageLogic, LLC (“TL”) voluntarily implements a compliance program to foster an environment of
+ethical and legal behavior in support of the mission of TL. The main elements of TriageLogic’s
+Compliance Plan are:
+1. Commitment to Compliance
+a.) Standards of Conduct
+b.) Marketing
+CORE 4	& 5
+20
+c.) Retention of Records/Documentation
+2. Designation of a Compliance Officer
+3. Training and Education for Compliance
+4. Communication of Compliance Guidelines
+5. Disciplinary Guidelines
+6. Auditing and Monitoring
+7. Correction Action
+Federal and State Rules Verification Process
+21
