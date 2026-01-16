@@ -1,0 +1,13 @@
+name: building-multiagent-ai-system
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.9
+  - langchain=0.3.20
+  - crewai=0.80.0
+  - langchain-community=0.3.19
+  - crewai-tools=0.38.0
+  - databricks-sdk=0.57.0
+  - python-dotenv
+  - pip
